@@ -17,8 +17,6 @@
   - Barbell Military Press 3x3x75#
   - Assisted Pull Ups 3x3
   - Conventional Deadlift 3x3x135#
-    - Left hand to from carport to end of driveway
-    - Right hand from end of driveway back to carport
   - Ab Wheel 1x10
   - 45:24 minute walk
 
