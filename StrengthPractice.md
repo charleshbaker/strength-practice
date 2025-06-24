@@ -10,7 +10,7 @@
     - Warm Up
       - Hang from bar 1x30 secs
       - Door knob squat 1x30 secs
-      - Two Hand Kettlebell Swing 5x10x35# (EMOM)*
+      - Two Hand Kettlebell Swing 5x10x44# (EMOM)*
   - Suitcase carry 67# pounds
     - Left hand to from carport to end of driveway
     - Right hand from end of driveway back to carport
