@@ -20,7 +20,7 @@
   - Ab Wheel 1x10
   - 45:24 minute walk
 
-* Was part of Hip PT. Did it as part of my warm up for ES4FL
+- *Was part of Hip PT. Did it as part of my warm up for ES4FL
 
 ## 20250623
 
@@ -43,7 +43,7 @@
   - Ab Wheel 1x10
   - 45:06 minute walk
 
-* Was part of Hip PT. Did it as part of my warm up for ES4FL
+- *Was part of Hip PT. Did it as part of my warm up for ES4FL
 
 ## 20250622
 
@@ -86,7 +86,7 @@
   - Ab Wheel 1x10
   - 48:49 minute walk
 
-* Was part of Hip PT. Did it as part of my warm up for ES4FL
+- *Was part of Hip PT. Did it as part of my warm up for ES4FL
 
 ## 20250618
 
@@ -109,7 +109,7 @@
     - Right hand from end of driveway back to carport
   - 30:00 minute walk
 
-* Was part of Hip PT. Did it as part of my warm up for ES4FL
+- *Was part of Hip PT. Did it as part of my warm up for ES4FL
 
 ## 20250617
 
