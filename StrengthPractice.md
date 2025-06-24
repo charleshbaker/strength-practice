@@ -58,10 +58,10 @@
 ## 20250620
 
 - 1500 Hip PT in Clinic
-  - Leg Lower w/ PA
-  - VArious bridges
-  - Hip Flexor work
-  - Lots of should work
+  - Leg Lowering w/ PA
+  - Various bridges
+  - Hip Flexor rehab
+  - Lots of shoulder rehab
   - Incline push ups 1x10 high, 2x10 lower 
   - Thrusters 1x5x25# dumbbell pair, 4x5x20# dumbbell pair
 
@@ -69,22 +69,22 @@
 
 - 1130 EDT 
   - Hip PT
-  - Triple Flexion 3x5 each w/ 15 sec hold each, heavy band
-  - Sidelying Shoulder Trio 3x5x3# each exercise, left & right
-  - 90/90 Get-up 3x5 each
+    - Triple Flexion 3x5 each w/ 15 sec hold each, heavy band
+    - Sidelying Shoulder Trio 3x5x3# each exercise, left & right
+    - 90/90 Get-up 3x5 each
   - Easy Strength for Fat Loss (ES4FL 11/40)
     - Warm Up
       - Hang from bar 1x30 secs
       - Door knob squat 1x30 secs
       - Box Squat 4x5 35# (EMOM)*
-  - Suitcase carry 53# pounds
-    - Left hand to from carport to end of driveway
-    - Right hand from end of driveway back to carport
-  - Barbell Military Press 3x3x65#
-  - Assisted Pull Ups 3x3
-  - Conventional Deadlift 3x3x115#
-  - Ab Wheel 1x10
-  - 48:49 minute walk
+    - Suitcase carry 53# pounds
+      - Left hand to from carport to end of driveway
+      - Right hand from end of driveway back to carport
+    - Barbell Military Press 3x3x65#
+    - Assisted Pull Ups 3x3
+    - Conventional Deadlift 3x3x115#
+    - Ab Wheel 1x10
+    - 48:49 minute walk
 
 - *Was part of Hip PT. Did it as part of my warm up for ES4FL
 
