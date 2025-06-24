@@ -18,7 +18,7 @@
   - Assisted Pull Ups 3x3
   - Conventional Deadlift 3x3x135#
   - Ab Wheel 1x10
-  - 45:24 minute walk
+  - 45:24 minute walk, 1 long hill backwards
 
 - *Was part of Hip PT. Did it as part of my warm up for ES4FL
 
@@ -41,7 +41,7 @@
     - Left hand to from carport down driveway to first crack after 2nd Japanese Maple
     - Right hand first crack after 2nd Japanese Maple beside the driveway back to carport
   - Ab Wheel 1x10
-  - 45:06 minute walk
+  - 45:06 minute walk, 1 long hill backwards
 
 - *Was part of Hip PT. Did it as part of my warm up for ES4FL
 
