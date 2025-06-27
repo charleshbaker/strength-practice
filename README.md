@@ -1,5 +1,5 @@
 
-Most of the training sessions list here so far are based on the work of 
+Most of the training sessions listed here so far are based on the work of 
 [Pavel Tsatsouline](https://www.strongfirst.com/about/pavel-tsatsouline/) and 
 [Dan John](https://danjohnuniversity.com/) in the book they wrote together 
 [Easy Strength.](https://www.dragondoor.com/easy-strength-ebook/?srsltid=AfmBOorbU7hZq2NAQ0t1NLdv4ndij_SGJnGAiJhcl1L-EVwDHcRTH2hZ)
