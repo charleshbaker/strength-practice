@@ -1,4 +1,18 @@
 
+## 20250627
+
+- 1500 EDT Hip PT in Clinic
+  - Muscle Testing
+  - Hip Flexor work
+  - Kettlebell Windmills
+  - I may have forgotten a movement or two?
+  - 1 Arm Kettlebell Rows
+  - 3 Rounds for Time
+    - Echo Bike 8 cals, 6 cals, 6 cals
+    - Incline Pushups 3x8
+    - Floor to Overhead, alternate hands 6x20#, 6x20#, 6x25#
+    - 2 Hand Kettlebell Swing 2x8x44#, 1x8x53#
+
 ## 20250626
 
 - 1045 EDT 
