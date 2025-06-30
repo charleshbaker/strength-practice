@@ -1,9 +1,49 @@
 
+## 20250630
+
+- 1300 EDT 
+  - Hip PT
+    - Triple Flexion 3x5 each w/ 20,20,15 sec hold each, heavy band
+    - Sidelying Shoulder Trio 3x5x3# each exercise, left & right
+    - 90/90 Get-up 3x5 each
+  - Easy Strength for Fat Loss (ES4FL 12/40)
+    - Warm Up
+      - Hang from bar 1x30 secs
+      - Door knob squat 1x30 secs
+      - Box Squat 4x5 35# (EMOM)*
+    - Suitcase carry 67# pounds
+      - Left hand to from carport down driveway to the end
+      - Right hand from the end of the driveway back to carport
+    - Barbell Military Press 3x3x75#
+    - Assisted Pull Ups 3x3
+    - Conventional Deadlift 3x3x145#
+    - Ab Wheel 1x10
+    - 45:46 minute walk, 1 long hill backwards
+
+- *Was part of Hip PT. Did it as part of my warm up for ES4FL
+
+## 20250629
+
+- After driving home from Hampton
+  - Approx. 20 minute walk
+  - Hang from bar 30 secs
+  - Door Knob squat 30 secs in the bottom
+  - Hip Thrusts/Clamshells 15/15 down to 1/1
+  - 6 Pt. Rocks 20 reps
+
+## 20250628
+
+- After driving to Hampton
+  - Hip Thrusts/Clamshells 15/15 down to 1/1
+  - 6 Pt. Rocks 20 reps
+  - Neck Nods
+
 ## 20250627
 
 - 1500 EDT Hip PT in Clinic
   - Muscle Testing
   - Hip Flexor work
+  - Bridge on foam roller
   - Kettlebell Windmills
   - I may have forgotten a movement or two?
   - 1 Arm Kettlebell Rows
@@ -32,7 +72,7 @@
     - Assisted Pull Ups 3x3
     - Conventional Deadlift 3x3x135#
     - Ab Wheel 1x10
-    - 40:00 minute walk
+    - 40:00 minute walk, 1 long hill backwards
 
 - *Was part of Hip PT. Did it as part of my warm up for ES4FL
 
