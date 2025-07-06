@@ -1,4 +1,20 @@
 
+## 20250705
+
+- 1915 EDT 
+  - Easy Strength for Fat Loss (ES4FL 16/40)
+    - Warm Up
+      - Hang from bar 1x30 secs
+      - Door knob squat 1x30 secs
+    - Suitcase carry 67# pounds
+      - Left hand to from carport down driveway to the end
+      - Right hand from the end of the driveway back to carport
+    - Barbell Military Press 3x3x75#
+    - Assisted Pull Ups 3x3
+    - Conventional Deadlift 3x3x145#
+    - Ab Wheel 1x10
+    - About 55 minute walk, 1 long hill backwards. I accidentally stopped my timer.
+
 ## 20250701
 
 - 1000 EDT 
