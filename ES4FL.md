@@ -1,4 +1,11 @@
 
+## 20250706
+
+- 1000 EDT
+  - Dan John 1 Minute Mobility
+    - Hang from bar 30 seconds (neutral grip)
+    - Sit in bottom of doorknob squat 30 seconds
+
 ## 20250705
 
 - 1915 EDT 
