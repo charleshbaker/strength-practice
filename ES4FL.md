@@ -1,10 +1,36 @@
 
+## 20250708
+
+- 1030 EDT 
+  - Hip PT
+    - Hip Hurdles 3x6 each
+    - Bridge w/ Foam Roll 4x5
+    - Clamshell 3x8 each
+  - Easy Strength for Fat Loss (ES4FL 15/40)
+    - Warm Up
+      - Hang from bar 1x30 secs
+      - Door knob squat 1x30 secs
+      - Kettlebell Swings 5x10 44#,44#,53#,53#,44# (EMOM)*
+    - Suitcase carry 67# pounds
+      - Left hand to from carport down driveway to the end
+      - Right hand from the end of the driveway back to carport
+    - Barbell Military Press 3x3x80#
+    - Assisted Pull Ups 3x3
+    - Conventional Deadlift 3x3x150#,170#,170#
+    - Ab Wheel 1x10
+    - 48:45 minute walk, 1 long hill backwards
+
+- *Was part of Hip PT. Did it as part of my warm up for ES4FL
+
 ## 20250706
 
 - 1000 EDT
   - Dan John 1 Minute Mobility
     - Hang from bar 30 seconds (neutral grip)
     - Sit in bottom of doorknob squat 30 seconds
+
+- 1816 EDT
+  - 34:21 Walk w/ 20# Backpack, 1 long hill backwards
 
 ## 20250705
 
