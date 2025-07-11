@@ -1,3 +1,29 @@
+## 20250711
+
+- 1100 EDT 
+  - Hip PT
+    - Triple Flexion 3x5 each w/ 20,20,15 sec hold each, heavy band
+    - Prone Angels 3x6
+    - 90/90 Get-up 3x5 each
+  - Easy Strength for Fat Loss (ES4FL 18/40)
+    - Warm Up
+      - Hang from bar 1x30 secs
+      - Door knob squat 1x30 secs
+      - Thrusters 5x5x25# (EMOM)*
+    - Barbell Military Press 3x3x80#
+    - Assisted Pull Ups 3x3
+    - Conventional Deadlift 3x3x150#,170#,170#
+    - Suitcase carry 67# pounds
+      - Left hand to from carport down driveway to the end
+      - Right hand from the end of the driveway back to carport
+    - Ab Wheel 1x10
+    - 50:19 minute walk, 1 long hill backwards
+
+- *Was part of Hip PT. Did it as part of my warm up for ES4FL
+
+## 20250710
+
+- 1500 Hip PT in Clinic
 
 ## 20250708
 
@@ -6,7 +32,7 @@
     - Hip Hurdles 3x6 each
     - Bridge w/ Foam Roll 4x5
     - Clamshell 3x8 each
-  - Easy Strength for Fat Loss (ES4FL 15/40)
+  - Easy Strength for Fat Loss (ES4FL 17/40)
     - Warm Up
       - Hang from bar 1x30 secs
       - Door knob squat 1x30 secs
