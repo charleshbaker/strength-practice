@@ -1,3 +1,30 @@
+
+
+## 20250713
+
+- 1130 EDT 
+  - Hip PT
+    - Leg Lowering w/ PA 3x6 each
+    - Modified Fig-4 Bridge 3x8
+    - Banded Shoulder 90/90 IR 3x8 each
+  - Easy Strength for Fat Loss (ES4FL 18/40)
+    - Warm Up
+      - Hang from bar 1x30 secs
+      - Door knob squat 1x30 secs
+      - Turkish Get Ups 5x1x10# Every 75 secs L,R* alternating**
+    - Suitcase carry 67# pounds
+      - Left hand to from carport down driveway to the end
+      - Right hand from the end of the driveway back to carport
+    - Barbell Military Press 3x3x65#**
+    - Assisted Pull Ups 3x3
+    - Conventional Deadlift 3x3x170#
+    - Ab Wheel 1x10
+    - 52:46 minute walk, 20# backpack, 1 long hill backwards
+- *Was part of Hip PT. Did it as part of my warm up for ES4FL. My right 
+shoulder was tweaked again after yesterday. Tried double 25# kettlebells no go, 
+used a single #25 held in both hands.
+- **Shoulder still tweaked 
+
 ## 20250711
 
 - 1100 EDT 
@@ -10,16 +37,21 @@
       - Hang from bar 1x30 secs
       - Door knob squat 1x30 secs
       - Thrusters 5x5x25# (EMOM)*
-    - Barbell Military Press 3x3x80#
+    - Barbell Military Press 3x3x65#**
     - Assisted Pull Ups 3x3
-    - Conventional Deadlift 3x3x150#,170#,170#
+    - Conventional Deadlift 3x3x170#
     - Suitcase carry 67# pounds
       - Left hand to from carport down driveway to the end
       - Right hand from the end of the driveway back to carport
     - Ab Wheel 1x10
     - 50:19 minute walk, 1 long hill backwards
 
-- *Was part of Hip PT. Did it as part of my warm up for ES4FL
+- *Was part of Hip PT. Did it as part of my warm up for ES4FL. My right 
+shoulder was tweaked again after yesterday. Tried double 25# kettlebells no go, 
+used a single #25 held in both hands.
+
+- **Even though my shoulder was tweaked I tried 80# which I used in the last
+session, but no go. Dropped back down to 65#.
 
 ## 20250710
 
