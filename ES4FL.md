@@ -11,7 +11,7 @@
     - Warm Up
       - Hang from bar 1x30 secs
       - Door knob squat 1x30 secs
-      - Clean to Back Squat 5x3x65#*
+      - Thrusters 5x5x25# kettlebell each hand*
     - Suitcase carry 67# pounds
       - Left hand to from carport down driveway to the end
       - Right hand from the end of the driveway back to carport
@@ -36,8 +36,8 @@
     - Warm Up
       - Hang from bar 1x30 secs
       - Door knob squat 1x30 secs
-      - Kettlebell Swing 5x10x44#,53#,53#,53#,44#
-      - Get Ups 5x1x20# each
+      - Kettlebell Swing 5x10x44#,53#,53#,53#,44#*
+      - Get Ups 5x1x20# each*
     - Suitcase carry 67# pounds
       - Left hand to from carport down driveway to the end
       - Right hand from the end of the driveway back to carport
