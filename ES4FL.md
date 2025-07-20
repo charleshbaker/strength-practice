@@ -1,4 +1,41 @@
 
+## 20250720
+
+- 1105 EDT
+  - Original Strength Resets
+    - Deep Breathing
+    - Head Nods
+    - Rolling
+    - Rocking
+    - Crawling
+  - McGill Big 3
+    - Curl Ups 3,2,1,1
+    - Kneeling Side Plank 3,2,1,1 alternating sides
+    - Bird Dogs 3,2,1,1
+  - FroZones 3,2,1,1
+  - Hang from Bar 30 seconds, neutral grip
+  - Door Knob Squat 30 seconds
+  - Walk 43:27, 1 long hill backwards
+
+## 20250719
+
+- 1100 EDT
+  - Original Strength Resets
+    - Deep Breathing
+    - Head Nods
+    - Rolling
+    - Rocking
+    - Crawling
+  - Hip PT 
+    - Leg Lowering w/ PA 3x6 each
+    - Modified Fig-4 Bridge 3x6 each
+    - Banded 90/90 IR 3x8 each
+  - Hang from Bar 30 seconds, wide overhand grip
+  - Door Knob Squat 30 seconds
+  - Turkish Get Ups 5x1x20# Every 75 secs L,R* alternating
+  - 49:50 minute walk, 1 long hill backwards
+
+- *Was part of Hip PT.
 
 ## 20250718
 
