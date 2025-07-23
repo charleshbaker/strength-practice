@@ -8,9 +8,9 @@
     - Clamshell 3x8 each
   - Easy Strength for Fat Loss (ES4FL 24/40)
     - Warm Up
-      - Hang from bar 1x30 secs
+      - Hang from bar, underhand narrow grip 1x30 secs
       - Door knob squat 1x30 secs
-      - Kettlebell Swing 5x10x44#,53#,53#,53#,44#
+      - Kettlebell Swing 5x10x44#,53#,53#,53#,44#*
     - Suitcase carry 70# pounds
       - Left hand to from carport down driveway to the end
       - Right hand from the end of the driveway back to carport
