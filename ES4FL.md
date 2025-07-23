@@ -1,4 +1,26 @@
 
+## 20250722
+
+- 1730 EDT 
+  - Hip PT
+    - Hip Hurdles 3x6 each
+    - Bridge w/ Foam Roller 4x5
+    - Clamshell 3x8 each
+  - Easy Strength for Fat Loss (ES4FL 24/40)
+    - Warm Up
+      - Hang from bar 1x30 secs
+      - Door knob squat 1x30 secs
+      - Kettlebell Swing 5x10x44#,53#,53#,53#,44#
+    - Suitcase carry 70# pounds
+      - Left hand to from carport down driveway to the end
+      - Right hand from the end of the driveway back to carport
+    - Barbell Clean-Press-Press-Press 3x3x80#,85#,85#
+    - Assisted Pull Ups 3x3
+    - Conventional Deadlift 3x3x185#
+    - Ab Wheel 1x10
+    - 56:15 minute walk, 1 long hill backwards
+- *Was part of Hip PT. Did it as part of my warm up for ES4FL.
+
 ## 20250720
 
 - 1105 EDT
@@ -49,7 +71,7 @@
       - Hang from bar 1x30 secs
       - Door knob squat 1x30 secs
       - Thrusters 5x5x25# kettlebell each hand*
-    - Suitcase carry 67# pounds
+    - Suitcase carry 62# pounds
       - Left hand to from carport down driveway to the end
       - Right hand from the end of the driveway back to carport
     - Barbell Clean-Press-Press-Press 3x3x80#,80#,85#
@@ -75,7 +97,7 @@
       - Door knob squat 1x30 secs
       - Kettlebell Swing 5x10x44#,53#,53#,53#,44#*
       - Get Ups 5x1x20# each*
-    - Suitcase carry 67# pounds
+    - Suitcase carry 62# pounds
       - Left hand to from carport down driveway to the end
       - Right hand from the end of the driveway back to carport
     - Barbell Clean-Press-Press-Press 3x3x75#,80#,85#
@@ -97,7 +119,7 @@
       - Hang from bar 1x30 secs
       - Door knob squat 1x30 secs
       - Clean to Back Squat 5x3x65#*
-    - Suitcase carry 67# pounds
+    - Suitcase carry 62# pounds
       - Left hand to from carport down driveway to the end
       - Right hand from the end of the driveway back to carport
     - Barbell Military Press 3x3x65#,75#,80#
@@ -119,7 +141,7 @@
       - Hang from bar 1x30 secs
       - Door knob squat 1x30 secs
       - Turkish Get Ups 5x1x10# Every 75 secs L,R* alternating**
-    - Suitcase carry 67# pounds
+    - Suitcase carry 62# pounds
       - Left hand to from carport down driveway to the end
       - Right hand from the end of the driveway back to carport
     - Barbell Military Press 3x3x65#**
@@ -147,7 +169,7 @@ used a single #25 held in both hands.
     - Barbell Military Press 3x3x65#**
     - Assisted Pull Ups 3x3
     - Conventional Deadlift 3x3x170#
-    - Suitcase carry 67# pounds
+    - Suitcase carry 62# pounds
       - Left hand to from carport down driveway to the end
       - Right hand from the end of the driveway back to carport
     - Ab Wheel 1x10
@@ -176,7 +198,7 @@ session, but no go. Dropped back down to 65#.
       - Hang from bar 1x30 secs
       - Door knob squat 1x30 secs
       - Kettlebell Swings 5x10 44#,44#,53#,53#,44# (EMOM)*
-    - Suitcase carry 67# pounds
+    - Suitcase carry 62# pounds
       - Left hand to from carport down driveway to the end
       - Right hand from the end of the driveway back to carport
     - Barbell Military Press 3x3x80#
@@ -204,7 +226,7 @@ session, but no go. Dropped back down to 65#.
     - Warm Up
       - Hang from bar 1x30 secs
       - Door knob squat 1x30 secs
-    - Suitcase carry 67# pounds
+    - Suitcase carry 62# pounds
       - Left hand to from carport down driveway to the end
       - Right hand from the end of the driveway back to carport
     - Barbell Military Press 3x3x75#
@@ -225,7 +247,7 @@ session, but no go. Dropped back down to 65#.
       - Hang from bar 1x30 secs
       - Door knob squat 1x30 secs
       - Kettlebell Swings 5x10 44#,44#,53#,53#,44# (EMOM)*
-    - Suitcase carry 67# pounds
+    - Suitcase carry 62# pounds
       - Left hand to from carport down driveway to the end
       - Right hand from the end of the driveway back to carport
     - Barbell Military Press 3x3x75#
@@ -248,7 +270,7 @@ session, but no go. Dropped back down to 65#.
       - Hang from bar 1x30 secs
       - Door knob squat 1x30 secs
       - Box Squat 4x5 35# (EMOM)*
-    - Suitcase carry 67# pounds
+    - Suitcase carry 62# pounds
       - Left hand to from carport down driveway to the end
       - Right hand from the end of the driveway back to carport
     - Barbell Military Press 3x3x75#
@@ -325,7 +347,7 @@ session, but no go. Dropped back down to 65#.
       - Hang from bar 1x30 secs
       - Door knob squat 1x30 secs
       - Two Hand Kettlebell Swing 5x10x44# (EMOM)*
-    - Suitcase carry 67# pounds
+    - Suitcase carry 62# pounds
       - Left hand to from carport to end of driveway
       - Right hand from end of driveway back to carport
     - Barbell Military Press 3x3x75#
@@ -351,7 +373,7 @@ session, but no go. Dropped back down to 65#.
     - Barbell Military Press 3x3x65#
     - Assisted Pull Ups 3x3
     - Conventional Deadlift 3x3x115#
-    - Suitcase carry 67# pounds
+    - Suitcase carry 62# pounds
       - Left hand to from carport down driveway to first crack after 2nd Japanese Maple
       - Right hand first crack after 2nd Japanese Maple beside the driveway back to carport
     - Ab Wheel 1x10
@@ -838,7 +860,7 @@ missed reps. Guess I'm not ready to press the 53# bell yet.
   - Goblet Box Squats 5x5 30#, 30#, 35#, 35#, 35#
   - Circuit 3 rounds
     - Echo Bike for calories 10, 8, 6
-    - Kettlebell deadlift 67#
+    - Kettlebell deadlift 62#
     - Abmat Situps 8, 8, 8
 
 ## 20250515
