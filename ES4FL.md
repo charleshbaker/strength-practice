@@ -1,4 +1,26 @@
 
+## 20250724
+
+- 1145 EDT 
+  - Hip PT
+    - Leg Lowering w/ PA 3x6 each
+    - Modified Fig-4 Bridge 3x6 each
+    - Banded 90/90 IR 3x8 each
+  - Easy Strength for Fat Loss (ES4FL 25/40)
+    - Warm Up
+      - Hang from bar, underhand narrow grip 1x30 secs
+      - Door knob squat 1x30 secs
+      - Turkish Get Ups 5x1x20# Every 90 secs L,R alternating*
+    - Suitcase carry 70# pounds
+      - Left hand to from carport down driveway to the end
+      - Right hand from the end of the driveway back to carport
+    - Barbell Clean-Press-Press-Press 3x3x85#,85#,85#
+    - Assisted Pull Ups 3x3
+    - Conventional Deadlift 3x3x185#
+    - Ab Wheel 1x10
+    - 48:36 minute walk, 1 long hill backwards
+- *Was part of Hip PT. Did it as part of my warm up for ES4FL.
+
 ## 20250722
 
 - 1730 EDT 
