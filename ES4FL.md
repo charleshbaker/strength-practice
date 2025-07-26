@@ -1,4 +1,22 @@
 
+## 20250725
+
+- 1900 EDT 
+  - Original Strength Resets
+    - Belly Breathing
+    - Nodding
+    - Rolling
+    - Rocking
+    - Crawling
+  - Hip PT
+    - Triple Flexion 3x5x15sec hold each
+    - Prone Angels 3x6x2# each hand
+    - 90/90 Get-up 3x5 each
+  - Hang from bar 30 seconds, wide overhand grip
+  - Door knob squat 30 seconds
+  - Thrusters 5x5x(2x25#), 1 set every 90 seconds
+  - Walk 46:43, 20# backpack, 1 long hilll backwards, 1 short steep hill backwards
+
 ## 20250724
 
 - 1145 EDT 
