@@ -14,8 +14,9 @@
     - 90/90 Get-up 3x5 each
   - Hang from bar 30 seconds, wide overhand grip
   - Door knob squat 30 seconds
-  - Thrusters 5x5x(2x25#), 1 set every 90 seconds
+  - Thrusters 5x5x(2x25#), 1 set every 90 seconds*
   - Walk 46:43, 20# backpack, 1 long hilll backwards, 1 short steep hill backwards
+- *Was part of Hip PT. 
 
 ## 20250724
 
