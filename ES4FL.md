@@ -1,4 +1,42 @@
 
+## 20250730
+
+- 1145 EDT 
+  - Hip PT
+    - Hip Hurdles 3x6 each
+    - Bridge w/ Foam Roller 4x5
+    - Clamshell 3x8 each
+    - Leg Lowering w/ PA 3x6 each
+    - Modified Fig-4 Bridge 3x6 each
+    - Banded 90/90 IR 3x8 each
+    - Hang from bar 1x30 secs
+    - Door knob squat 1x30 secs
+    - Kettlebell Swings 5x10x53#
+    - Turkish Get Ups 5x1x25# L,R alternating
+    - 53:14 minute walk, 1 long hill backwards
+
+## 20250728
+
+- 1730 EDT 
+  - Hip PT
+    - Triple Flexion 3x5x15sec hold each
+    - Prone Angels 3x6x2# each hand
+    - 90/90 Get-up 3x5 each
+  - Easy Strength for Fat Loss (ES4FL 23/40)
+    - Warm Up
+      - Hang from bar 1x30 secs
+      - Door knob squat 1x30 secs
+      - 5x(1 Clean to 3 Back Squats)x85#*
+    - Suitcase carry 70# pounds
+      - Left hand to from carport down driveway to the end
+      - Right hand from the end of the driveway back to carport
+    - Barbell Clean-Press-Press-Press 3x3x85#,85#,85#
+    - Assisted Pull Ups 3x5
+    - Conventional Deadlift 3x3x185#
+    - Ab Wheel 1x10
+    - 45:47 minute walk, 1 long hill backwards
+- *Was part of Hip PT. Did it as part of my warm up for ES4FL.
+
 ## 20250725
 
 - 1900 EDT 
@@ -34,7 +72,7 @@
       - Left hand to from carport down driveway to the end
       - Right hand from the end of the driveway back to carport
     - Barbell Clean-Press-Press-Press 3x3x85#,85#,85#
-    - Assisted Pull Ups 3x3
+    - Assisted Pull Ups 3x3,5,5
     - Conventional Deadlift 3x3x185#
     - Ab Wheel 1x10
     - 48:36 minute walk, 1 long hill backwards
@@ -56,7 +94,7 @@
       - Left hand to from carport down driveway to the end
       - Right hand from the end of the driveway back to carport
     - Barbell Clean-Press-Press-Press 3x3x80#,85#,85#
-    - Assisted Pull Ups 3x3
+    - Assisted Pull Ups 3x3,5,3
     - Conventional Deadlift 3x3x185#
     - Ab Wheel 1x10
     - 56:15 minute walk, 1 long hill backwards
