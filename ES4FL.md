@@ -1,7 +1,7 @@
 
 ## 20250730
 
-- 1145 EDT 
+- 1130 EDT 
   - Hip PT
     - Hip Hurdles 3x6 each
     - Bridge w/ Foam Roller 4x5
@@ -17,7 +17,7 @@
 
 ## 20250728
 
-- 1730 EDT 
+- 1800 EDT 
   - Hip PT
     - Triple Flexion 3x5x15sec hold each
     - Prone Angels 3x6x2# each hand
