@@ -1,4 +1,26 @@
 
+## 20250731
+
+- 1115 EDT 
+  - Original Strength Resets
+    - Belly Breathing
+    - Nodding
+    - Rolling
+    - Rocking
+    - Crawling
+  - Easy Strength for Fat Loss (ES4FL 27/40)
+    - Warm Up
+      - Hang from bar 1x30 secs
+      - Door knob squat 1x30 secs
+    - Suitcase carry 44# pounds
+      - Left hand to from carport down driveway along the street to start of Windor's driveway
+      - Right hand from the start of Windor's driveway along the street back to carport
+    - Barbell Clean-Press-Press-Press 3x3x85#,90#,90#
+    - Assisted Pull Ups 3x5
+    - Conventional Deadlift 3x3x190#
+    - Ab Wheel 1x10
+    - 42:44 minute walk, 1 long hill backwards
+
 ## 20250730
 
 - 1130 EDT 
