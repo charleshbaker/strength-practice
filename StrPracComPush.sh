@@ -5,7 +5,7 @@
 # Date: 20250729
 # Purpose: Simple bash script to copy a file and commit it to git.
 # ToDo: Maybe add a debug function, debug statements and error handling
-#
+# ToDo: Accept the text of a commit message as input
 #
 # Copyright (C) 2025 Charles H. Baker
 #    
