@@ -34,7 +34,7 @@ cp -p ${HOME}/chb-basb/02-Areas/Personal/Health/StrengthPractice.md ${HOME}/stre
 
 git status
 
-git add ${HOME}/strength-practice/ES4FL.md 
+git add ${HOME}/strength-practice/.
 
 git status
 
