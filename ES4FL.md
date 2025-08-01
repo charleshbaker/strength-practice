@@ -1,4 +1,16 @@
 
+## 20250801
+
+- 1500 EDT
+  - Hip PT in Clinic
+    - Triple Flexion 3x5x10 secs ea
+    - Leg Extensions 3x8x50#
+    - Tibia Extensions 3x6x50#
+    - Leg Curls 3x8xmanual resistance
+    - Nordic Curls 3x5
+    - Bulgarian Spilt Squats 3x5x30#(2x15#)
+    - Half kneeling Landmine Press 5x6 each bar, bar, bar, bar+25#, bar+25#
+
 ## 20250731
 
 - 1315 EDT 
