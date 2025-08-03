@@ -1,4 +1,25 @@
 
+## 20250803
+
+- 1105 EDT
+  - Original Strength Resets
+    - Deep Breathing
+    - Rolling
+    - Head Nods
+    - Rocking
+    - Crawling
+  - McGill Big 3
+    - Curl Ups 3,2,1x10 sec hold each, each side
+    - Kneeling Side Plank 3,2,1x10 sec hold each alternating sides
+    - Bird Dogs 3,2,1x10 sec hold each alternating sides
+  - FroZones 3,2,1x10 sec hold each alternating sides
+  - Hang from Bar 30 seconds, neutral grip
+  - Door Knob Squat 30 seconds
+  - Cook Drill 25#, 14:33, 4 total rounds, alternating hands
+    - Waiter walk from kettlebell stand to end of driveway
+    - Rack carry back to kettlebell stand
+    - Suitcase carry down and back
+
 ## 20250802
 
 - 1045 EDT 
