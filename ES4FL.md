@@ -1,4 +1,27 @@
 
+## 20250804
+
+- 1130 EDT 
+  - Hip PT
+    - Triple Flexion 3x5x20sec hold each, heavy band, hard
+    - Sidelying Shoulder Trio 3x5x3# each exercise, left & right
+    - 90/90 Get-up 3x5 each
+  - Easy Strength for Fat Loss (ES4FL 29/40)
+    - Warm Up
+      - Hang from bar 1x30 secs, parallel grip
+      - Door knob squat 1x30 secs
+      - Clean to Back Squat 5x3x90#*
+    - Suitcase carry 44# pounds
+      - Left hand to from carport down driveway along the street to start of Windor's driveway
+      - Right hand from the start of Windor's driveway along the street back to carport
+        - 140m total
+    - Barbell Clean-Press-Press-Press 3x3x90#,90#,95#
+    - Assisted Pull Ups 3x5
+    - Conventional Deadlift 3x3x190#
+    - Ab Wheel 1x10
+    - 45:00 minute walk, 1 long hill backwards
+- *Was part of Hip PT. Did it as part of my warm up for ES4FL.
+
 ## 20250803
 
 - 1105 EDT
@@ -13,7 +36,7 @@
     - Kneeling Side Plank 3,2,1x10 sec hold each alternating sides
     - Bird Dogs 3,2,1x10 sec hold each alternating sides
   - FroZones 3,2,1x10 sec hold each alternating sides
-  - Hang from Bar 30 seconds, neutral grip
+  - Hang from Bar 30 seconds, wide overhand grip
   - Door Knob Squat 30 seconds
   - Cook Drill 25#, 14:33, 4 total rounds, alternating hands
     - Waiter walk from kettlebell stand to end of driveway
@@ -39,7 +62,7 @@
       - Right hand from the start of Windor's driveway along the street back to carport
         - 140m total
     - Barbell Clean-Press-Press-Press 3x3x90#,90#,90#
-    - Assisted Pull Ups 3x3,5,5
+    - Assisted Pull Ups 3x5
     - Conventional Deadlift 3x3x190#
     - Ab Wheel 1x10
     - 46:43 minute walk, 1 long hill backwards
