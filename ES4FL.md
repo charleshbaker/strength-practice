@@ -19,6 +19,8 @@
     - Waiter walk from kettlebell stand to end of driveway
     - Rack carry back to kettlebell stand
     - Suitcase carry down and back
+- 1910 EDT
+  - 53:04 Walk w/ 20# backpack, 1 short hill backwards
 
 ## 20250802
 
