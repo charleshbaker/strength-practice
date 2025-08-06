@@ -1,4 +1,20 @@
 
+## 20250805
+
+- 2030 EDT
+  - Original Strength Resets
+    - Deep Breathing
+    - Rolling
+    - Head Nods
+    - Rocking
+    - Crawling
+  - Hip PT
+    - Hip Hurdles 3x6 each
+    - Bridge w/ Foam Roller 4x5
+    - Clamshell 3x8 each
+    - Kettlebell Swings 5x10x53#
+  - Walk 40:58
+
 ## 20250804
 
 - 1130 EDT 
