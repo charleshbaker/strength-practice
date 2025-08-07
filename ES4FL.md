@@ -1,4 +1,49 @@
 
+## 20250807
+
+- ? EDT
+  - Original Strength Resets
+    - Deep Breathing
+    - Rolling
+    - Head Nods
+    - Rocking
+    - Crawling
+  - McGill Big 3
+    - Curl Ups 3,2,1x10 sec hold each, each side
+    - Kneeling Side Plank 3,2,1x10 sec hold each alternating sides
+    - Bird Dogs 3,2,1x10 sec hold each alternating sides
+  - FroZones 3,2,1x10 sec hold each alternating sides
+  - Hang from Bar 30 seconds, wide overhand grip
+  - Door Knob Squat 30 seconds
+  - Cook Drill 25#, 12:00, 4 total rounds, alternating hands
+    - Waiter walk from kettlebell stand to end of driveway
+    - Rack carry back to kettlebell stand
+    - Suitcase carry down and back
+  - 45:00 Walk , 1 long hill backwards
+
+## 20250806
+
+- ? EDT 
+  - Hip PT
+    - Leg Lowering w/ PA 3x6 each
+    - Modified Fig-4 Bridge 3x6 each
+    - Banded 90/90 IR 3x8 each
+  - Easy Strength for Fat Loss (ES4FL 30/40)
+    - Warm Up
+      - Hang from bar, underhand narrow grip 1x30 secs
+      - Door knob squat 1x30 secs
+      - Turkish Get Ups 5x1x25# Every 90 secs L,R alternating*
+    - Barbell Clean-Press-Press-Press 3x3x90#,95#,95#
+    - Assisted Pull Ups 3x5
+    - Conventional Deadlift 3x3x190#
+    - Suitcase carry 44# pounds
+      - Left hand to from carport down driveway along the street to start of Windor's driveway
+      - Right hand from the start of Windor's driveway along the street back to carport
+        - 140m total
+    - Ab Wheel 1x10
+    - 45:00 minute walk, 1 long hill backwards
+- *Was part of Hip PT. Did it as part of my warm up for ES4FL.
+
 ## 20250805
 
 - 2030 EDT
@@ -13,6 +58,9 @@
     - Bridge w/ Foam Roller 4x5
     - Clamshell 3x8 each
     - Kettlebell Swings 5x10x53#
+  - One Minute Mobility    
+      - Hang from bar 1x30 secs, underhand narrow grip
+      - Door knob squat 1x30 secs
   - Walk 40:58
 
 ## 20250804
