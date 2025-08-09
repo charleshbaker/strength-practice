@@ -6,7 +6,7 @@
     - Triple Flexion 3x5x15sec hold each
     - Prone Angels 3x6x2# each hand
     - 90/90 Get-up 3x5 each
-  - Easy Strength for Fat Loss (ES4FL 26/40)
+  - Easy Strength for Fat Loss (ES4FL 31/40)
     - Warm Up
       - Hang from bar 1x30 secs, neutral grip
       - Door knob squat 1x30 secs
