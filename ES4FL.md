@@ -34,7 +34,7 @@
     - Warm Up
       - Hang from bar 1x30 secs, neutral grip
       - Door knob squat 1x30 secs
-      - Kettlbell Thrusters 5x5x(2x25#)
+      - Kettlbell Thrusters 5x5x(2x25#)*
     - Suitcase carry 53# pounds
       - Left hand to from carport down driveway along the street to start of Windor's driveway
       - Right hand from the start of Windor's driveway along the street back to carport
@@ -105,11 +105,12 @@
     - Hip Hurdles 3x6 each
     - Bridge w/ Foam Roller 4x5
     - Clamshell 3x8 each
-    - Kettlebell Swings 5x10x53#
   - One Minute Mobility    
       - Hang from bar 1x30 secs, underhand narrow grip
       - Door knob squat 1x30 secs
+  - Kettlebell Swings 5x10x53#*
   - Walk 40:58
+- *Was part of Hip PT. Did it as part of my warm up for ES4FL.
 
 ## 20250804
 
