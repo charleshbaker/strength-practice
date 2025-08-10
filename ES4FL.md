@@ -1,4 +1,28 @@
 
+## 20250810
+
+- 1330 EDT
+  - Original Strength Resets
+    - Deep Breathing
+    - Rolling
+    - Head Nods
+    - Rocking
+    - Crawling
+  - Hip PT
+    - Hip Hurdles 3x6 each
+    - Leg Lock Bridge 3x6 each
+    - Sidelying Hip Abduction 3x6 each
+  - 1 Minute Mobility
+    - Hang from Bar 30 seconds, wide overhand grip
+    - Door Knob Squat 30 seconds
+  - Half Kneeling Landmine Press 1x8x10# 3x6x20#*
+  - Cook Drill 25#, 13:00, 4 total rounds, alternating hands
+    - Waiter walk from kettlebell stand to end of driveway
+    - Rack carry back to kettlebell stand
+    - Suitcase carry down and back
+  - 45:18 Walk w/ 20# backpack, 1 long hill backwards
+- *Was part of Hip PT. 
+
 ## 20250809
 
 - 1100 EDT 
