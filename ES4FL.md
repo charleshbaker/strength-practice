@@ -1,4 +1,52 @@
 
+## 20250815
+
+- 1030 EDT
+  - Hip PT
+    - Hip Hurdles 3x6 each
+    - Bridge w/ Foam Roller 4x5
+    - Clamshell 3x8 each
+    - Leg Lowering w/ PA 3x6 each
+    - Modified Fig-4 Bridge 3x6 each
+    - Banded 90/90 IR 3x8 each
+  - Easy Strength for Fat Loss (ES4FL 33/40)
+    - Warm Up
+      - Hang from bar 1x30 secs, narrow underhand grip
+      - Door knob squat 1x30 secs
+      - Kettlebell Swings 5x10x53# EMOM*
+      - Turkish Get Ups 5x1x25# EMOM L,R alternating*
+    - Farmers carry 2x35# pounds, rac to end of driveway & back
+        - ~70m total
+    - Barbell Clean-Press-Press-Press 3x3x95#
+    - Assisted Pull Ups 3x5
+    - Conventional Deadlift 3x3x205#
+    - Ab Wheel 1x10
+    - 50:45 minute walk, 1 long hill backwards
+- *Was part of Hip PT. Did it as part of my warm up for ES4FL.
+
+## 20250812
+
+- ? EDT 
+  - Hip PT
+    - Triple Flexion 3x5x20sec hold each, heavy band, hard
+    - Sidelying Shoulder Trio 3x5x3# each exercise, left & right
+    - 90/90 Get-up 3x5 each
+  - Easy Strength for Fat Loss (ES4FL 32/40)
+    - Warm Up
+      - Hang from bar 1x30 secs, neutral grip
+      - Door knob squat 1x30 secs
+      - Clean to Back Squat 5x3x95#*
+    - Suitcase carry 53# pounds
+      - Left hand to from carport down driveway along the street to start of Windor's driveway
+      - Right hand from the start of Windor's driveway along the street back to carport
+        - 140m total
+    - Barbell Clean-Press-Press-Press 3x3x95#
+    - Assisted Pull Ups 3x5
+    - Conventional Deadlift 3x3x205#
+    - Ab Wheel 1x10
+    - ~45:00 minute walk, 1 long hill backwards
+- *Was part of Hip PT. Did it as part of my warm up for ES4FL.
+
 ## 20250810
 
 - 1330 EDT
