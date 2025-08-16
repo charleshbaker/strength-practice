@@ -1,4 +1,26 @@
 
+## 20250816
+
+- 1100 EDT 
+  - Hip PT
+    - Triple Flexion 3x5x15sec hold each
+    - Prone Angels 3x6x2# each hand
+    - 90/90 Get-up 3x5 each
+  - Easy Strength for Fat Loss (ES4FL 31/40)
+    - Warm Up
+      - Hang from bar 1x30 secs, neutral grip
+      - Door knob squat 1x30 secs
+      - Kettlbell Thrusters 5x5x(2x25#)*
+    - Waiter walk 25# + Suitcase carry 35# combined
+      - Left hand to from carport half way down driveway
+      - Right hand from half way down driveway back to carport
+    - Barbell Clean-Press-Press-Press 3x3x95#
+    - Assisted Pull Ups 3x5
+    - Conventional Deadlift 3x3x205#
+    - Ab Wheel 1x10
+    - 51:48 minute walk, 1 long hill backwards
+- *Was part of Hip PT. Did it as part of my warm up for ES4FL.
+
 ## 20250815
 
 - 1030 EDT
