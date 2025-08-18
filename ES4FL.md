@@ -1,12 +1,37 @@
 
+## 20250818
+
+  - Easy Strength for Fat Loss (ES4FL 35/40)
+    - Warm Up
+      - 1 Min. Mobility
+      - Hang from bar 1x30secs, underhand narrow grip
+      - Door knob squat 1x30 secs
+      - Kettlbell Halo 1x5x25# each direction
+      - Broomstick Halo 1x5 each direction
+      - Broomstick dislocations 1x5
+    - Barbell Clean-Press-Press-Press 3x3x95#
+    - Assisted Pull Ups 3x5
+    - Conventional Deadlift 3x3x205#
+    - Ab Wheel 1x10
+    - 35:16 minute walk, 1 long hill backwards
+      - After stopping for a meeting that was cancelled 11:02 minute walk
+
+## 20250817
+
+- 1 Min. Mobility
+  - Hang from bar 1x30secs, neutral grip
+  - Door knob squat 1x30 secs
+- Hip Thrusts super-setted w/ Clamshells wearing Glute Loop
+  - 15/15 down to 1/1
+
 ## 20250816
 
-- 1100 EDT 
+- 0910 EDT 
   - Hip PT
     - Triple Flexion 3x5x15sec hold each
     - Prone Angels 3x6x2# each hand
     - 90/90 Get-up 3x5 each
-  - Easy Strength for Fat Loss (ES4FL 31/40)
+  - Easy Strength for Fat Loss (ES4FL 34/40)
     - Warm Up
       - Hang from bar 1x30 secs, neutral grip
       - Door knob squat 1x30 secs
@@ -37,7 +62,7 @@
       - Door knob squat 1x30 secs
       - Kettlebell Swings 5x10x53# EMOM*
       - Turkish Get Ups 5x1x25# EMOM L,R alternating*
-    - Farmers carry 2x35# pounds, rac to end of driveway & back
+    - Farmers carry 2x35# pounds, rack to end of driveway & back
         - ~70m total
     - Barbell Clean-Press-Press-Press 3x3x95#
     - Assisted Pull Ups 3x5
