@@ -1,6 +1,27 @@
 
+## 20250819
+
+- 1200 EDT
+  - Original Strength Resets
+    - Deep Breathing
+    - Rolling
+    - Head Nods
+    - Rocking
+    - Crawling
+  - McGill Big 3
+    - Curl Ups 3,2,1x10 sec hold each, each side
+    - Kneeling Side Plank 3,2,1x10 sec hold each alternating sides
+    - Bird Dogs 3,2,1x10 sec hold each alternating sides
+  - FroZones 3,2,1x10 sec hold each alternating sides
+  - Standing Cross Crawl 
+  - 1 Minute Mobility
+    - Hang from Bar 30 seconds, wide overhand grip
+    - Door Knob Squat 30 seconds
+  - Walk 48:43, 1 long hill backwards
+
 ## 20250818
 
+- 1130 EDT
   - Easy Strength for Fat Loss (ES4FL 35/40)
     - Warm Up
       - 1 Min. Mobility
