@@ -25,8 +25,8 @@
   - Easy Strength for Fat Loss (ES4FL 35/40)
     - Warm Up
       - 1 Min. Mobility
-      - Hang from bar 1x30secs, underhand narrow grip
-      - Door knob squat 1x30 secs
+        - Hang from bar 1x30secs, underhand narrow grip
+        - Door knob squat 1x30 secs
       - Kettlbell Halo 1x5x25# each direction
       - Broomstick Halo 1x5 each direction
       - Broomstick dislocations 1x5
