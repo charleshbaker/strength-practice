@@ -1,11 +1,33 @@
 
+## 20250822
+
+- 1120 EDT
+  - Original Strength Resets
+    - Deep Breathing
+    - Rolling
+    - Head Nods
+    - Rocking
+    - Crawling
+  - McGill Big 3
+    - Curl Ups 3,2,1x10 sec hold each, each side
+    - Kneeling Side Plank 3,2,1x10 sec hold each alternating sides
+    - Bird Dogs 3,2,1x10 sec hold each alternating sides
+  - FroZones 3,2,1x10 sec hold each alternating sides
+  - 1 Minute Mobility
+    - Hang from Bar 30 seconds, narrow underhand grip
+    - Door Knob Squat 30 seconds
+  - Cook Drill 25#, 12:55, 4 total rounds, alternating hands
+    - Waiter walk from kettlebell stand to end of driveway
+    - Rack carry back to kettlebell stand
+    - Suitcase carry down and back
+
 ## 20250821
 
 - 1050 EDT
   - Easy Strength for Fat Loss (ES4FL 36/40)
     - Warm Up
       - 1 Min. Mobility
-        - Hang from bar 1x30secs, underhand narrow grip
+        - Hang from bar 1x30secs, parallel grip
         - Door knob squat 1x30 secs
       - Kettlbell Halo 1x5x25# each direction
       - Broomstick Halo 1x5 each direction
@@ -61,7 +83,7 @@
 ## 20250817
 
 - 1 Min. Mobility
-  - Hang from bar 1x30secs, neutral grip
+  - Hang from bar 1x30secs, parallel grip
   - Door knob squat 1x30 secs
 - Hip Thrusts super-setted w/ Clamshells wearing Glute Loop
   - 15/15 down to 1/1
