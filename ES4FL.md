@@ -1,4 +1,22 @@
 
+## 20250823
+
+- 1050 EDT
+  - Easy Strength for Fat Loss (ES4FL 37/40)
+    - Warm Up
+      - 1 Min. Mobility
+        - Hang from bar 1x30secs, wide overhand grip
+        - Door knob squat 1x30 secs
+    - Barbell Clean-Press-Press-Press 3x3x95#
+    - Assisted Pull Ups 3x5
+    - Conventional Deadlift 3x3x205#
+    - Suitcase carry 53# pounds
+      - Left hand to from carport down driveway along the street to start of Windor's driveway
+      - Right hand from the start of Windor's driveway along the street back to carport
+        - 140m total
+    - Ab Wheel 1x10
+    - 45:17 minute walk, 1 long hill backwards, 20# back pack
+
 ## 20250822
 
 - 1120 EDT
