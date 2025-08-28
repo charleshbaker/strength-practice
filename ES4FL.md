@@ -1,4 +1,25 @@
 
+## 20250828
+
+- 1130 EDT
+  - Easy Strength for Fat Loss (ES4FL 39/40)
+    - Warm Up
+      - 1 Min. Mobility
+        - Hang from bar 1x30secs, narrow, underhand grip
+        - Door knob squat 1x30 secs
+      - Kettlbell Halo 1x5x25# each direction
+      - Broomstick Halo 1x5 each direction
+      - Broomstick dislocations 1x5
+    - Farmer Carry 2x35# kettlebells
+      - down driveway along the street to start of Windor's driveway
+      - from the start of Windor's driveway along the street back to carport
+        - 140m total
+    - Barbell Clean-Press-Press-Press 3x3x95#,100#,100#
+    - Assisted Pull Ups 3x5
+    - Conventional Deadlift 3x3x205#,215#,215#
+    - Ab Wheel 1x10
+    - 44:20 minute walk, 1 long hill backwards, 20# backpack, 2x3# dumbbells in hands
+
 ## 20250825
 
 - 1100 EDT
