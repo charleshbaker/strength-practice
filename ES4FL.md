@@ -1,4 +1,37 @@
 
+## 20250904
+
+- 1645 EDT
+
+  - Original Strength Resets
+    - Deep Breathing
+    - Rolling
+    - Head Nods
+    - Rocking
+    - Crawling
+
+- 1730 EDT
+  - Walk 52:06 2.69km
+
+
+## 20250901
+
+- ?
+  - 1 Min. Mobility
+     - Hang from bar 1x30secs, wide, overhand grip
+     - Door knob squat 1x30 secs
+
+## 20250830
+
+- 1130 EDT
+   - 1 Min. Mobility
+     - Hang from bar 1x30secs, narrow, underhand grip
+     - Door knob squat 1x30 secs
+
+- 1600 EDT
+  - Hip thrust superset w/ clamshells 15..1
+    - Wearing glute loop
+
 ## 20250828
 
 - 1130 EDT
