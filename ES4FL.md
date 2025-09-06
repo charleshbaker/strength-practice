@@ -1,8 +1,35 @@
 
+## 20250906
+
+- 1030 EDT
+  - Original Strength Resets
+    - Deep Breathing
+    - Rolling
+    - Head Nods
+    - Rocking
+    - Crawling
+  - Easy Strength for Fat Loss (ES4FL 40/40)
+    - Warm Up
+      - 1 Min. Mobility
+        - Hang from bar 1x30secs, narrow, underhand grip
+        - Door knob squat 1x30 secs
+      - Kettlbell Halo 1x5x25# each direction
+      - Broomstick Halo 1x5 each direction
+      - Broomstick dislocations 1x5
+    - Suitcase Carry 1x53# kettlebell
+      - down driveway along the street to start of Windor's driveway
+      - from the start of Windor's driveway along the street back to carport
+        - 140m total
+    - Barbell Clean-Press-Press-Press 3x3x95#
+    - Assisted Pull Ups 3x5
+    - Conventional Deadlift 3x3x205#
+    - Ab Wheel 1x10
+    - 47:07 minute walk, 1 long hill backwards, 20# backpack, 2x3# dumbbells in hands
+
+
 ## 20250904
 
 - 1645 EDT
-
   - Original Strength Resets
     - Deep Breathing
     - Rolling
