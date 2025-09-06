@@ -11,7 +11,7 @@
   - Easy Strength for Fat Loss (ES4FL 40/40)
     - Warm Up
       - 1 Min. Mobility
-        - Hang from bar 1x30secs, narrow, underhand grip
+        - Hang from bar 1x30secs, wide, overhand grip
         - Door knob squat 1x30 secs
       - Kettlbell Halo 1x5x25# each direction
       - Broomstick Halo 1x5 each direction
@@ -24,7 +24,7 @@
     - Assisted Pull Ups 3x5
     - Conventional Deadlift 3x3x205#
     - Ab Wheel 1x10
-    - 47:07 minute walk, 1 long hill backwards, 20# backpack, 2x3# dumbbells in hands
+    - 47:07 minute walk, 20# backpack, 2x3# dumbbells in hands
 
 
 ## 20250904
