@@ -1,4 +1,18 @@
 
+## 20250907
+
+- 1330 EDT
+  - Original Strength Resets
+    - Deep Breathing
+    - Rolling
+    - Head Nods
+    - Rocking
+    - Crawling
+  - 1 Min. Mobility
+    - Hang from bar 1x30secs, wide, overhand grip
+    - Door knob squat 1x30 secs
+  - Walk 1:00:20 3.32km
+
 ## 20250906
 
 - 1030 EDT
@@ -39,7 +53,6 @@
 
 - 1730 EDT
   - Walk 52:06 2.69km
-
 
 ## 20250901
 
