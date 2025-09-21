@@ -1,4 +1,33 @@
 
+## 20250921
+
+- 12:50 EDT
+  - Double Kettlebell Clean, Press, press...
+    - 2x2,3,5x25s
+  - ABC EMOM5 w/ 25s
+    - 2 cleans
+    - 1 press
+    - 3 squats
+  - Walk 45:02, 2.46km
+
+## 20250914
+
+- 08:58 EDT
+  - Walk 30:11, 1.63km
+
+## 20250913
+
+- 1330 EDT
+  - 1 Min. Mobility
+    - Hang from bar 1x30secs, medium, parallel grip
+    - Door knob squat 1x30 secs
+  - Walk 27:59, 1.64km
+  - 3 Rounds
+    - 3 Assisted Pull Ups
+    - 6 Incline Push Ups, hands on 2nd step
+    - 9 Air Squats
+  - Walk 23:26, 1.70km
+
 ## 20250907
 
 - 1330 EDT
@@ -9,7 +38,7 @@
     - Rocking
     - Crawling
   - 1 Min. Mobility
-    - Hang from bar 1x30secs, wide, overhand grip
+    - Hang from bar 1x30secs, medium, parallel grip
     - Door knob squat 1x30 secs
   - Walk 1:00:20 3.32km
 
