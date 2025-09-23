@@ -16,7 +16,7 @@
     - 2,3,5,10x26s
     - 2,3,5,10x26s
     - 2,3,5x26s
-  - Walk 45:02, 2.46km
+  - Walk 52:45, forgot to track distance
 
 
 ## 20250922
