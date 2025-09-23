@@ -1,15 +1,3 @@
-
-## 20250921
-
-- 12:50 EDT
-  - Double Kettlebell Clean, Press, press...
-    - 2x2,3,5x25s
-  - ABC EMOM5 w/ 25s
-    - 2 cleans
-    - 1 press
-    - 3 squats
-  - Walk 45:02, 2.46km
-
 ## 20250914
 
 - 08:58 EDT
