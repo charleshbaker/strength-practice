@@ -1,4 +1,42 @@
 
+## 20250930
+
+- 1800 EDT Armor Building Formula (W2D1)
+  - Warm Up
+    - 1 Min. Mobility
+      - Hang from bar 1x30secs, medium, parallel grip
+      - Door knob squat 1x30 secs
+    - Kettlbell Halo 1x5x25# each direction
+    - Broomstick Halo 1x5 each direction
+    - Broomstick dislocations 1x5
+  - ABC EMOM10 w/ 2x35#
+    - 2 cleans
+    - 1 press
+    - 3 squats
+  - Double Kettlebell Clean, Press, press...ladders
+    - 3x(2,3,5)x(2x35#)
+  - Walk 42:06, 2km, 1 long hill backwards
+
+## 20250927
+
+- ? EDT
+  - 1 Min. Mobility
+  - Hang from bar 1x30secs, narrow, underhand grip
+  - Door knob squat 1x30 secs
+
+## 20250926
+
+- 1600 EDT
+  - 1 Min. Mobility
+  - Hang from bar 1x30secs, medium, parallel grip
+  - Door knob squat 1x30 secs
+
+- 2230 EDT
+  - Superset 15..1
+    - Hip Thrust
+    - Clamshell
+
+
 ## 20250925
 
 - 1240 EDT Armor Building Formula (W1D3)
