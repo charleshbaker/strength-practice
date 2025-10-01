@@ -15,7 +15,7 @@
     - 3 squats
   - Double Kettlebell Clean, Press, press...ladders
     - 3x(2,3,5)x(2x35#)
-  - Walk 42:06, 2km, 1 long hill backwards
+  - Walk 27:18, 1.62km, 1 long hill backwards
 
 ## 20250927
 
