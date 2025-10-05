@@ -1,4 +1,52 @@
 
+## 20251004
+
+- 1030 EDT
+  - Original Strength Resets
+    - Deep Breathing
+    - Rolling
+    - Head Nods
+    - Rocking
+    - Crawling
+  - McGill Big 3
+    - Curl Ups 3,2,1x10 sec hold each
+    - Kneeling Side Plank 3,2,1x10 sec hold each alternating sides
+    - Bird Dogs 3,2,1x10 sec hold each alternating sides
+  - FroZones 3,2,1x10 sec hold each alternating sides
+  - 1 Min. Mobility
+    - Hang from bar 1x30secs, medium, narrow underhand grip
+    - Door knob squat 1x30 secs
+  - Cook Drill 12:35, 0.62km, 4 total rounds, alternating hands
+    - Waiter walk from kettlebell stand to end of driveway 25#, 25#, 25#, 25#
+    - Rack carry back to kettlebell stand 25#, 25#, 25#, 25#
+    - Suitcase carry down and back 25#, 25#, 44#, 44#
+  - 20# Ruck 0:53:56, 3.22, 1 long hill backwards
+
+## 20251003
+
+- 1530 EDT Armor Building Formula (W2D1)
+  - Warm Up
+    - 1 Min. Mobility
+      - Hang from bar 1x30secs, medium, parallel grip
+      - Door knob squat 1x30 secs
+    - Kettlbell Halo 1x5x25# each direction
+    - Broomstick Halo 1x5 each direction
+    - Broomstick dislocations 1x5
+  - Double Kettlebell Clean, Press, press...ladders
+    - 4x(2,3,5)x(2x35#)
+  - ABC EMOM10 w/ 2x35#
+    - 2 cleans
+    - 1 press
+    - 3 squats
+  - Walk 41:19, 2.14km, 1 long hill backwards
+
+## 20251001
+
+- 1600 EDT
+  - 1 Min. Mobility
+  - Hang from bar 1x30secs, narrow, underhand grip
+  - Door knob squat 1x30 secs
+
 ## 20250930
 
 - 1800 EDT Armor Building Formula (W2D1)
