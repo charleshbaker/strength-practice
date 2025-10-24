@@ -1,4 +1,22 @@
 
+## 20251024
+
+- 1630 EDT Armor Building Formula (W1D2)
+  - Warm Up
+    - 1 Min. Mobility
+      - Hang from bar 1x30secs, medium, parallel grip
+      - Door knob squat 1x30 secs
+    - Kettlbell Halo 1x5x25# each direction
+    - Broomstick Halo 1x5 each direction
+    - Broomstick dislocations 1x5
+  - ABC EMOM5 w/ 2x35#
+    - 2 cleans
+    - 1 press
+    - 3 squats
+  - Double Kettlebell Clean, Press, press...ladders
+    - 2x(2,3,5)x(2x35#)
+  - Walk 1:01:52, 3.3km
+
 ## 20251021
 
 - Restarting the Armor Building Formula. I went for to much volume too quickly. Yes I did it but I couldn't recover.
