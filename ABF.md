@@ -1,6 +1,44 @@
 
 ## 20251024
 
+- 1030 EDT Armor Building Formula (W1D3)
+  - Warm Up
+    - 1 Min. Mobility
+      - Hang from bar 1x30secs, medium, parallel grip
+      - Door knob squat 1x30 secs
+    - Kettlbell Halo 1x5x25# each direction
+    - Broomstick Halo 1x5 each direction
+    - Broomstick dislocations 1x5
+  - Double Kettlebell Clean, Press, press...ladders
+    - 3x(2,3,5)x(2x35#) = 9 cleans and 30 presses
+  - ABC EMOM7 w/ 2x35# = 14 cleans, 7 presses, 21 squats
+    - 2 cleans
+    - 1 press
+    - 3 squats
+  - Walk 0:55:05, 3.26km
+
+## 20251025
+
+- 1240 EDT
+  - Original Strength Resets
+    - Deep Breathing
+    - Rolling
+    - Head Nods
+    - Rocking
+    - Crawling
+  - McGill Big 3
+    - Curl Ups 3,2,1x10 sec hold each
+    - Kneeling Side Plank 3,2,1x10 sec hold each alternating sides
+    - Bird Dogs 3,2,1x10 sec hold each alternating sides
+  - FroZones 3,2,1x10 sec hold each alternating sides
+  - 1 Min. Mobility
+    - Hang from bar 1x30secs narrow, underhand grip
+    - Door knob squat 1x30 secs
+  - 20# Ruck 0:57:07, 3.24, 2 short hills backwards
+
+
+## 20251024
+
 - 1630 EDT Armor Building Formula (W1D2)
   - Warm Up
     - 1 Min. Mobility
@@ -9,12 +47,12 @@
     - Kettlbell Halo 1x5x25# each direction
     - Broomstick Halo 1x5 each direction
     - Broomstick dislocations 1x5
-  - ABC EMOM5 w/ 2x35#
+  - ABC EMOM5 w/ 2x35# = 10 cleans, 5 presses, 15 squats
     - 2 cleans
     - 1 press
     - 3 squats
   - Double Kettlebell Clean, Press, press...ladders
-    - 2x(2,3,5)x(2x35#)
+    - 2x(2,3,5)x(2x35#) = 6 cleans and 20 presses
   - Walk 1:01:52, 3.3km
 
 ## 20251021
@@ -29,8 +67,8 @@
     - Broomstick Halo 1x5 each direction
     - Broomstick dislocations 1x5
   - Double Kettlebell Clean, Press, press...ladders
-    - 2x(2,3,5)x(2x35#)
-  - ABC EMOM5 w/ 2x35#
+    - 2x(2,3,5)x(2x35#) = 6 cleans and 20 presses
+  - ABC EMOM5 w/ 2x35# = 10 cleans, 5 presses, 15 squats
     - 2 cleans
     - 1 press
     - 3 squats
@@ -54,9 +92,7 @@
     - 5x(2,3,5)x(2x35#)
   - Walk 38:42, 2.00km
 
-## 20251001
 
-- 1600 EDT
 ## 20251004
 
 - 1030 EDT
