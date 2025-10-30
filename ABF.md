@@ -1,7 +1,7 @@
 
 ## 20251030
 
-- 1530 EDT Armor Building Formula (W2D1)
+- 1515 EDT Armor Building Formula (W2D1)
   - Warm Up
     - 1 Min. Mobility
       - Hang from bar 1x30secs, narrow, underhand grip
