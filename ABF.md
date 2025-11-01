@@ -1,4 +1,22 @@
 
+## 20251101
+
+- 1215 EDT Armor Building Formula (W2D2)
+  - Warm Up
+    - 1 Min. Mobility
+      - Hang from bar 1x30secs, wide, overhand grip
+      - Door knob squat 1x30 secs
+    - Kettlbell Halo 1x5x25# each direction
+    - Broomstick Halo 1x5 each direction
+    - Broomstick dislocations 1x5
+  - Double Kettlebell Clean, Press, press...ladders
+    - 3x(2,3,5)x(2x35#) = 9 cleans and 30 presses
+  - ABC EMOM8 w/ 2x35# = 16 cleans, 8 presses, 24 squats
+    - 2 cleans
+    - 1 press
+    - 3 squats
+  - Walk 0:55:07, 3.33km, 1 hill backwards (~142m)
+
 ## 20251030
 
 - 1515 EDT Armor Building Formula (W2D1)
@@ -15,7 +33,7 @@
     - 3 squats
   - Double Kettlebell Clean, Press, press...ladders
     - 3x(2,3,5)x(2x35#) = 9 cleans and 30 presses
-  - Walk 0:45:01, 2.38km
+  - Walk 0:45:01, 2.38km, 1 hill backwards
 
 ## 20251026
 
@@ -33,7 +51,7 @@
     - 2 cleans
     - 1 press
     - 3 squats
-  - Walk 0:55:05, 3.26km
+  - Walk 0:55:05, 3.26km, 1 hill backwards
 
 ## 20251025
 
@@ -71,7 +89,7 @@
     - 3 squats
   - Double Kettlebell Clean, Press, press...ladders
     - 2x(2,3,5)x(2x35#) = 6 cleans and 20 presses
-  - Walk 1:01:52, 3.3km
+  - Walk 1:01:52, 3.3km, 1 hill backwards
 
 ## 20251021
 
@@ -90,7 +108,7 @@
     - 2 cleans
     - 1 press
     - 3 squats
-  - Walk 56:53, 3.29km
+  - Walk 56:53, 3.29km, 1 hill backwards
 
 ## 20251005
 
@@ -108,7 +126,7 @@
     - 3 squats
   - Double Kettlebell Clean, Press, press...ladders
     - 5x(2,3,5)x(2x35#)
-  - Walk 38:42, 2.00km
+  - Walk 38:42, 2.00km, 1 hill backwards
 
 
 ## 20251004
