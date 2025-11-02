@@ -1,4 +1,24 @@
 
+## 20251102
+
+- 0945 EDT
+  - Original Strength Resets
+    - Deep Breathing
+    - Nodding
+    - Rolling
+    - Rocking
+    - Crawling
+  - McGill Big 3
+    - Curl Ups 3,2,1x10 sec hold each
+    - Kneeling Side Plank 3,2,1x10 sec hold each alternating sides
+    - Bird Dogs 3,2,1x10 sec hold each alternating sides
+  - FroZones 3,2,1x10 sec hold each alternating sides
+  - 1 Min. Mobility
+    - Hang from bar 1x30secs narrow, underhand grip
+    - Door knob squat 1x30 secs
+  - Cook Drill 35#, 11:10, 53km
+  - Walk 0:40:11, 2.04km, 1 hill backwards (~240m)
+
 ## 20251101
 
 - 1215 EDT Armor Building Formula (W2D2)
@@ -71,7 +91,6 @@
     - Hang from bar 1x30secs narrow, underhand grip
     - Door knob squat 1x30 secs
   - 20# Ruck 0:57:07, 3.24, 2 short hills backwards
-
 
 ## 20251024
 
