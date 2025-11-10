@@ -1,4 +1,49 @@
 
+## 20251109
+
+  - 1 Min. Mobility
+    - Hang from bar 1x30secs, narrow, underhand grip
+    - Door knob squat 1x30 secs
+
+## 20251107
+
+- Evening
+  - Superset Hip Thrusts w/ Clamshells 15, 14, 13,...1
+  - Original Strength Resets
+    - Deep Breathing
+    - Nodding
+    - Rolling
+    - Rocking
+
+- Morning
+  - 1 Min. Mobility
+    - Hang from bar 1x30secs, narrow, underhand grip
+    - Door knob squat 1x30 secs
+
+## 20251106
+
+- ? EDT Armor Building Formula (W2D3)
+  - Warm Up
+    - 1 Min. Mobility
+      - Hang from bar 1x30secs, narrow, underhand grip
+      - Door knob squat 1x30 secs
+    - Kettlbell Halo 1x5x25# each direction
+    - Broomstick Halo 1x5 each direction
+    - Broomstick dislocations 1x5
+  - ABC EMOM10 w/ 2x35# = 20 cleans, 10 presses, 30 squats
+    - 2 cleans
+    - 1 press
+    - 3 squats
+  - Double Kettlebell Clean, Press, press...ladders
+    - 1x(2,3,5,10)x(2x35#) = 4 cleans and 20 presses
+    - 3x(2,3,5)x(2x35#) = 9 cleans and 30 presses
+  - Walk 0:57:54, 3.41km, 1 hill backwards
+
+## 20251105
+  - 1 Min. Mobility
+    - Hang from bar 1x30secs, narrow, underhand grip
+    - Door knob squat 1x30 secs
+
 ## 20251102
 
 - 0945 EDT
