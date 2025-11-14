@@ -1,4 +1,16 @@
 
+## 20251114
+
+- 1030 EDT Armor Building Formula (W3D2)
+  - 1 Min. Mobility
+    - Hang from bar 1x30secs, wide, overhand grip
+    - Door knob squat 1x30 secs
+  - ABC EMOM15 w/ 2x35# = 30 cleans, 15 presses, 45 squats
+    - 2 cleans
+    - 1 press
+    - 3 squats
+  - Walk 0:45:47, 2.67km, 1 long hill backwards
+
 ## 20251113
 
 - 1 Min. Mobility
@@ -8,13 +20,13 @@
 ## 20251112
 
 - 1 Min. Mobility
-  - Hang from bar 1x30secs, narrow, underhand grip
+  - Hang from bar 1x30secs, medium, parallel grip
   - Door knob squat 1x30 secs
 
 ## 20251111
 
 - 1 Min. Mobility
-  - Hang from bar 1x30secs, narrow, underhand grip
+  - Hang from bar 1x30secs, wide, overhand grip
   - Door knob squat 1x30 secs
 - Walk 1:00:26, 3.60km
 
