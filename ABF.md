@@ -1,7 +1,7 @@
 
 ## 20251116
 
-- 1200 EDT Armor Building Formula (W3D1)
+- 1200 EDT Armor Building Formula (W3D3)
   - Warm Up
     - 1 Min. Mobility
       - Hang from bar 1x30secs, narrow, underhand grip
