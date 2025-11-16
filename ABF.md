@@ -3,7 +3,7 @@
 
 - 1145 EDT
   - 1 Min. Mobility
-    - Hang from bar 1x30secs narrow, underhand grip
+    - Hang from bar 1x30secs medium, parallel grip
     - Door knob squat 1x30 secs
   - Original Strength Resets
     - Deep Breathing
