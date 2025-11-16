@@ -1,4 +1,19 @@
 
+## 20251116
+
+- 1200 EDT Armor Building Formula (W3D1)
+  - Warm Up
+    - 1 Min. Mobility
+      - Hang from bar 1x30secs, narrow, underhand grip
+      - Door knob squat 1x30 secs
+    - Kettlbell Halo 1x5x25# each direction
+    - Broomstick Halo 1x5 each direction
+    - Broomstick dislocations 1x5
+  - Double Kettlebell Clean, Press, press...ladders
+    - 1x(2,3,5,10)x(2x35#) = 4 cleans and 20 presses
+    - 4x(2,3,5)x(2x35#) = 12 cleans and 40 presses
+  - Walk 0:46:17, 2.64km, 1 hill backwards
+
 ## 20251115
 
 - 1145 EDT
