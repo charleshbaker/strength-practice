@@ -1,4 +1,24 @@
 
+## 20251117
+
+- 1225 EDT
+  - 1 Min. Mobility
+    - Hang from bar 1x30secs wide, overhand grip
+    - Door knob squat 1x30 secs
+  - Original Strength Resets
+    - Deep Breathing
+    - Nodding
+    - Rolling
+    - Rocking
+    - Crawling
+  - McGill Big 3
+    - Curl Ups 3,2,1x10 sec hold each alternating right knee up then left knee up
+    - Kneeling Side Plank 3,2,1x10 sec hold each alternating sides
+    - Bird Dogs 3,2,1x10 sec hold each alternating sides
+  - FroZones 3,2,1x10 sec hold each alternating sides
+  - Easy Bike Ride 0:14:46, 2.76km
+  - Walk 0:31:13, 1.87km
+
 ## 20251116
 
 - 1200 EDT Armor Building Formula (W3D3)
