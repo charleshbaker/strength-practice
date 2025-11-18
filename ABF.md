@@ -1,4 +1,19 @@
 
+## 20251118
+
+- 1230 EDT Armor Building Formula (W4D1)
+  - 1 Min. Mobility
+    - Hang from bar 1x30secs, wide, overhand grip
+    - Door knob squat 1x30 secs
+  - ABC EMOM10 
+   - 3x(2x35#) = 6 cleans, 3 presses, 9 squats
+   - 3x(2x44#) = 6 cleans, 3 presses, 9 squats
+   - 4x(2x35#) = 8 cleans, 4 presses, 12 squats
+    - 2 cleans
+    - 1 press
+    - 3 squats
+  - Walk 0:45:06, 2.51km, 1 long hill backwards
+
 ## 20251117
 
 - 1225 EDT
