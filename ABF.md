@@ -1,4 +1,16 @@
 
+## 20251120
+
+- 1630 EDT Armor Building Formula (W4D1)
+  - 1 Min. Mobility
+    - Hang from bar 1x30secs, wide, overhand grip
+    - Door knob squat 1x30 secs
+  - Double Kettlebell Clean, Press, press...ladders
+    - 3 x ((2 x (2 x 53#)) + (3 x (2 x 44#)) + (5 x (2 x 35#)) + (10 x (2 x 26#))) = 12 cleans + 60 presses
+    - Had to push press all the reps w/ the pair of 53# kettlebells
+    - Had to push press the last set w/ the pair of 44# kettlebells
+  - Walk 0:32:49, 2.09km
+
 ## 20251118
 
 - 1230 EDT Armor Building Formula (W4D1)
