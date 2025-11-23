@@ -1,10 +1,31 @@
 
+## 20251123
+
+- 1030 EDT Armor Building Formula (W4D3)
+  - 1 Min. Mobility
+    - Hang from bar 1x30secs, medium, parallel grip
+    - Door knob squat 1x30 secs
+    - Kettlbell Halo 1x5x25# each direction
+    - Broomstick Halo 1x5 each direction
+    - Broomstick dislocations 1x5
+  - ABC EMOM10 
+   - 3x(2x35#) = 6 cleans, 3 presses, 9 squats
+   - 3x(2x44#) = 6 cleans, 3 presses, 9 squats
+   - 4x(2x35#) = 8 cleans, 4 presses, 12 squats
+    - 2 cleans
+    - 1 press
+    - 3 squats
+  - Walk 0:51:10, 2.53km, 1 long hill backwards
+
 ## 20251120
 
-- 1630 EDT Armor Building Formula (W4D1)
+- 1630 EDT Armor Building Formula (W4D2)
   - 1 Min. Mobility
-    - Hang from bar 1x30secs, wide, overhand grip
+    - Hang from bar 1x30secs, narrow, underhand grip
     - Door knob squat 1x30 secs
+    - Kettlbell Halo 1x5x25# each direction
+    - Broomstick Halo 1x5 each direction
+    - Broomstick dislocations 1x5
   - Double Kettlebell Clean, Press, press...ladders
     - 3 x ((2 x (2 x 53#)) + (3 x (2 x 44#)) + (5 x (2 x 35#)) + (10 x (2 x 26#))) = 12 cleans + 60 presses
     - Had to push press all the reps w/ the pair of 53# kettlebells
@@ -15,8 +36,11 @@
 
 - 1230 EDT Armor Building Formula (W4D1)
   - 1 Min. Mobility
-    - Hang from bar 1x30secs, wide, overhand grip
+    - Hang from bar 1x30secs, medium, parallel grip
     - Door knob squat 1x30 secs
+    - Kettlbell Halo 1x5x25# each direction
+    - Broomstick Halo 1x5 each direction
+    - Broomstick dislocations 1x5
   - ABC EMOM10 
    - 3x(2x35#) = 6 cleans, 3 presses, 9 squats
    - 3x(2x44#) = 6 cleans, 3 presses, 9 squats
