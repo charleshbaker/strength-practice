@@ -1,4 +1,24 @@
 
+## 20251124
+
+- 1310 EDT
+  - 1 Min. Mobility
+    - Hang from bar 1x30secs wide, overhand grip
+    - Door knob squat 1x30 secs
+  - Original Strength Resets
+    - Deep Breathing
+    - Nodding
+    - Rolling
+    - Rocking
+    - Crawling
+  - McGill Big 3
+    - Curl Ups 3,2,1x10 sec hold each alternating right knee up then left knee up
+    - Kneeling Side Plank 3,2,1x10 sec hold each alternating sides
+    - Bird Dogs 3,2,1x10 sec hold each alternating sides
+  - FroZones 3,2,1x10 sec hold each alternating sides
+  - Kettlebell Mile 25# 0:28:23, 1.69km
+  - Walk 0:31:27, 1.64km
+
 ## 20251123
 
 - 1030 EDT Armor Building Formula (W4D3)
@@ -15,7 +35,7 @@
     - 2 cleans
     - 1 press
     - 3 squats
-  - Walk 0:51:10, 2.53km, 1 long hill backwards
+  - Walk 0:51:10, 2.51km, 1 long hill backwards
 
 ## 20251120
 
