@@ -1,9 +1,28 @@
 
+## 20251124
+
+- 1310 EDT
+  - 1 Min. Mobility
+    - Hang from bar 1x30secs narrow, underhand grip
+    - Door knob squat 1x30 secs
+  - Original Strength Resets
+    - Deep Breathing
+    - Nodding
+    - Rolling
+    - Rocking
+    - Crawling
+  - McGill Big 3
+    - Curl Ups 3,2,1x10 sec hold each alternating right knee up then left knee up
+    - Kneeling Side Plank 3,2,1x10 sec hold each alternating sides
+    - Bird Dogs 3,2,1x10 sec hold each alternating sides
+  - FroZones 3,2,1x10 sec hold each alternating sides
+  - 20# Ruck 0:44:28, 2.72km, 1 long hill backwards
+
 ## 20251126
 
-- 1630 EDT Armor Building Formula (W4D2)
+- 1630 EDT Armor Building Formula (W5D1)
   - 1 Min. Mobility
-    - Hang from bar 1x30secs, narrow, underhand grip
+    - Hang from bar 1x30secs, medium, parallel grip
     - Door knob squat 1x30 secs
     - Kettlbell Halo 1x5x25# each direction
     - Broomstick Halo 1x5 each direction
