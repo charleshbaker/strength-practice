@@ -1,5 +1,21 @@
 
-## 20251124
+## 20251128
+
+- 1115 EDT Armor Building Formula (W4D3)
+  - 1 Min. Mobility
+    - Hang from bar 1x30secs, medium, parallel grip
+    - Door knob squat 1x30 secs
+    - Kettlbell Halo 1x5x25# each direction
+    - Broomstick Halo 1x5 each direction
+    - Broomstick dislocations 1x5
+  - ABC EMOM20 
+   - 20x(2x35#) = 40 cleans, 20 presses, 90 squats
+    - 2 cleans
+    - 1 press
+    - 3 squats
+  - Walk 0:60:30, 3.22km, 1 very long hill backwards
+
+## 20251127
 
 - 1310 EDT
   - 1 Min. Mobility
