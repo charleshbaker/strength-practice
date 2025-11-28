@@ -1,7 +1,7 @@
 
 ## 20251128
 
-- 1115 EDT Armor Building Formula (W4D3)
+- 1115 EDT Armor Building Formula (W5D2)
   - 1 Min. Mobility
     - Hang from bar 1x30secs, medium, parallel grip
     - Door knob squat 1x30 secs
