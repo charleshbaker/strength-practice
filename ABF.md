@@ -1,10 +1,44 @@
 
+## 20251130
+
+- 1145 EDT Armor Building Formula (W5D3)
+  - Warm Up
+    - 1 Min. Mobility
+      - Hang from bar 1x30secs, medium, parallel grip
+      - Door knob squat 1x30 secs
+    - Kettlbell Halo 1x5x25# each direction
+    - Broomstick Halo 1x5 each direction
+    - Broomstick dislocations 1x5
+  - Double Kettlebell Clean, Press, press...ladders
+    - 8x(2,3,5)x(2x35#) = 24 cleans and 80 presses
+  - Walk 0:55:53, 3.24km, 1 short hill backwards
+
+## 20251129
+
+- 1615 EDT
+  - Walk 0:32:51, 1.77km, 1 long hill backwards
+  - 1 Min. Mobility
+    - Hang from bar 1x30secs narrow, underhand grip
+    - Door knob squat 1x30 secs
+  - Original Strength Resets
+    - Deep Breathing
+    - Nodding
+    - Rolling
+    - Rocking
+    - Crawling
+  - McGill Big 3
+    - Curl Ups 3,2,1x10 sec hold each alternating right knee up then left knee up
+    - Kneeling Side Plank 3,2,1x10 sec hold each alternating sides
+    - Bird Dogs 3,2,1x10 sec hold each alternating sides
+  - FroZones 3,2,1x10 sec hold each alternating sides
+
 ## 20251128
 
 - 1115 EDT Armor Building Formula (W5D2)
-  - 1 Min. Mobility
-    - Hang from bar 1x30secs, medium, parallel grip
-    - Door knob squat 1x30 secs
+  - Warm Up
+    - 1 Min. Mobility
+      - Hang from bar 1x30secs, medium, parallel grip
+      - Door knob squat 1x30 secs
     - Kettlbell Halo 1x5x25# each direction
     - Broomstick Halo 1x5 each direction
     - Broomstick dislocations 1x5
@@ -37,9 +71,10 @@
 ## 20251126
 
 - 1630 EDT Armor Building Formula (W5D1)
-  - 1 Min. Mobility
-    - Hang from bar 1x30secs, medium, parallel grip
-    - Door knob squat 1x30 secs
+  - Warm Up
+    - 1 Min. Mobility
+      - Hang from bar 1x30secs, medium, parallel grip
+      - Door knob squat 1x30 secs
     - Kettlbell Halo 1x5x25# each direction
     - Broomstick Halo 1x5 each direction
     - Broomstick dislocations 1x5
