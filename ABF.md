@@ -1,10 +1,29 @@
 
+## 20251201
+
+- 1728 EDT
+  - Walk 0:58:06, 3.02km, 1 very long hill backwards
+  - Original Strength Resets
+    - Deep Breathing
+    - Nodding
+    - Rolling
+    - Rocking
+    - Crawling
+  - McGill Big 3
+    - Curl Ups 3,2,1x10 sec hold each alternating right knee up then left knee up
+    - Kneeling Side Plank 3,2,1x10 sec hold each alternating sides
+    - Bird Dogs 3,2,1x10 sec hold each alternating sides
+  - FroZones 3,2,1x10 sec hold each alternating sides
+  - 1 Min. Mobility
+    - Hang from bar 1x30secs medium, parallel grip
+    - Door knob squat 1x30 secs
+
 ## 20251130
 
 - 1145 EDT Armor Building Formula (W5D3)
   - Warm Up
     - 1 Min. Mobility
-      - Hang from bar 1x30secs, medium, parallel grip
+      - Hang from bar 1x30secs, wide, overhand grip
       - Door knob squat 1x30 secs
     - Kettlbell Halo 1x5x25# each direction
     - Broomstick Halo 1x5 each direction
