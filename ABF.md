@@ -6,7 +6,7 @@
     - 1 Min. Mobility
       - Hang from bar 1x30secs, medium, parallel grip
       - Door knob squat 1x30 secs
-  - Walk 0:46:49, 2.46km, 1 very long hill backwards
+  - Walk 0:33:09, 2.01km
 
 
 ## 20251202
