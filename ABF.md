@@ -1,7 +1,17 @@
 
+## 20251203
+
+- 1645 ET
+  - Warm Up
+    - 1 Min. Mobility
+      - Hang from bar 1x30secs, medium, parallel grip
+      - Door knob squat 1x30 secs
+  - Walk 0:46:49, 2.46km, 1 very long hill backwards
+
+
 ## 20251202
 
-- 1800 EDT Armor Building Formula (W6D1)
+- 1800 ET Armor Building Formula (W6D1)
   - Warm Up
     - 1 Min. Mobility
       - Hang from bar 1x30secs, medium, parallel grip
@@ -18,7 +28,7 @@
 
 ## 20251201
 
-- 1728 EDT
+- 1728 ET
   - Walk 0:58:06, 3.02km, 1 very long hill backwards
   - Original Strength Resets
     - Deep Breathing
