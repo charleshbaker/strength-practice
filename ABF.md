@@ -4,7 +4,7 @@
 - 1615 EDT Armor Building Formula (W6D2)
   - Warm Up
     - 1 Min. Mobility
-      - Hang from bar 1x30secs, wide, overhand grip
+      - Hang from bar 1x30secs, medium, parallel grip
       - Door knob squat 1x30 secs
     - Kettlbell Halo 1x5x25# each direction
     - Broomstick Halo 1x5 each direction
