@@ -1,10 +1,24 @@
 
+## 20251204
+
+- 1615 EDT Armor Building Formula (W6D2)
+  - Warm Up
+    - 1 Min. Mobility
+      - Hang from bar 1x30secs, wide, overhand grip
+      - Door knob squat 1x30 secs
+    - Kettlbell Halo 1x5x25# each direction
+    - Broomstick Halo 1x5 each direction
+    - Broomstick dislocations 1x5
+  - Double Kettlebell Clean, Press, press...ladders
+    - 10x(2,3,5)x(2x35#) = 30 cleans and 100 presses
+  - Walk 0:53:53, 3.06, 1 long hill backwards
+
 ## 20251203
 
 - 1645 ET
   - Warm Up
     - 1 Min. Mobility
-      - Hang from bar 1x30secs, medium, parallel grip
+      - Hang from bar 1x30secs, wide, overhand grip
       - Door knob squat 1x30 secs
   - Walk 0:33:09, 2.01km
 
@@ -14,7 +28,7 @@
 - 1800 ET Armor Building Formula (W6D1)
   - Warm Up
     - 1 Min. Mobility
-      - Hang from bar 1x30secs, medium, parallel grip
+      - Hang from bar 1x30secs, narrow, underhand grip
       - Door knob squat 1x30 secs
     - Kettlbell Halo 1x5x25# each direction
     - Broomstick Halo 1x5 each direction
