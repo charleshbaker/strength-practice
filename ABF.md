@@ -18,7 +18,7 @@
 
 ## 20251204
 
-- 1615 EDT Armor Building Formula (W6D2)
+- 1615 ET Armor Building Formula (W6D2)
   - Warm Up
     - 1 Min. Mobility
       - Hang from bar 1x30secs, medium, parallel grip
@@ -78,7 +78,7 @@
 
 ## 20251130
 
-- 1145 EDT Armor Building Formula (W5D3)
+- 1145 ET Armor Building Formula (W5D3)
   - Warm Up
     - 1 Min. Mobility
       - Hang from bar 1x30secs, wide, overhand grip
@@ -92,7 +92,7 @@
 
 ## 20251129
 
-- 1615 EDT
+- 1615 ET
   - Walk 0:32:51, 1.77km, 1 long hill backwards
   - 1 Min. Mobility
     - Hang from bar 1x30secs narrow, underhand grip
@@ -111,7 +111,7 @@
 
 ## 20251128
 
-- 1115 EDT Armor Building Formula (W5D2)
+- 1115 ET Armor Building Formula (W5D2)
   - Warm Up
     - 1 Min. Mobility
       - Hang from bar 1x30secs, medium, parallel grip
@@ -128,7 +128,7 @@
 
 ## 20251127
 
-- 1310 EDT
+- 1310 ET
   - 1 Min. Mobility
     - Hang from bar 1x30secs narrow, underhand grip
     - Door knob squat 1x30 secs
@@ -147,7 +147,7 @@
 
 ## 20251126
 
-- 1630 EDT Armor Building Formula (W5D1)
+- 1630 ET Armor Building Formula (W5D1)
   - Warm Up
     - 1 Min. Mobility
       - Hang from bar 1x30secs, medium, parallel grip
@@ -163,7 +163,7 @@
 
 ## 20251124
 
-- 1310 EDT
+- 1310 ET
   - 1 Min. Mobility
     - Hang from bar 1x30secs wide, overhand grip
     - Door knob squat 1x30 secs
@@ -183,17 +183,18 @@
 
 ## 20251123
 
-- 1030 EDT Armor Building Formula (W4D3)
-  - 1 Min. Mobility
-    - Hang from bar 1x30secs, medium, parallel grip
-    - Door knob squat 1x30 secs
+- 1030 ET Armor Building Formula (W4D3)
+  - Warm Up
+    - 1 Min. Mobility
+      - Hang from bar 1x30secs, medium, parallel grip
+      - Door knob squat 1x30 secs
     - Kettlbell Halo 1x5x25# each direction
     - Broomstick Halo 1x5 each direction
     - Broomstick dislocations 1x5
   - ABC EMOM10 
-   - 3x(2x35#) = 6 cleans, 3 presses, 9 squats
-   - 3x(2x44#) = 6 cleans, 3 presses, 9 squats
-   - 4x(2x35#) = 8 cleans, 4 presses, 12 squats
+    - 3x(2x35#) = 6 cleans, 3 presses, 9 squats
+    - 3x(2x44#) = 6 cleans, 3 presses, 9 squats
+    - 4x(2x35#) = 8 cleans, 4 presses, 12 squats
     - 2 cleans
     - 1 press
     - 3 squats
@@ -201,10 +202,11 @@
 
 ## 20251120
 
-- 1630 EDT Armor Building Formula (W4D2)
-  - 1 Min. Mobility
-    - Hang from bar 1x30secs, narrow, underhand grip
-    - Door knob squat 1x30 secs
+- 1630 ET Armor Building Formula (W4D2)
+  - Warm Up
+    - 1 Min. Mobility
+      - Hang from bar 1x30secs, narrow, underhand grip
+      - Door knob squat 1x30 secs
     - Kettlbell Halo 1x5x25# each direction
     - Broomstick Halo 1x5 each direction
     - Broomstick dislocations 1x5
@@ -216,10 +218,11 @@
 
 ## 20251118
 
-- 1230 EDT Armor Building Formula (W4D1)
-  - 1 Min. Mobility
-    - Hang from bar 1x30secs, medium, parallel grip
-    - Door knob squat 1x30 secs
+- 1230 ET Armor Building Formula (W4D1)
+  - Warm Up
+    - 1 Min. Mobility
+      - Hang from bar 1x30secs, medium, parallel grip
+      - Door knob squat 1x30 secs
     - Kettlbell Halo 1x5x25# each direction
     - Broomstick Halo 1x5 each direction
     - Broomstick dislocations 1x5
@@ -234,7 +237,7 @@
 
 ## 20251117
 
-- 1225 EDT
+- 1225 ET
   - 1 Min. Mobility
     - Hang from bar 1x30secs wide, overhand grip
     - Door knob squat 1x30 secs
@@ -254,7 +257,7 @@
 
 ## 20251116
 
-- 1200 EDT Armor Building Formula (W3D3)
+- 1200 ET Armor Building Formula (W3D3)
   - Warm Up
     - 1 Min. Mobility
       - Hang from bar 1x30secs, narrow, underhand grip
@@ -269,7 +272,7 @@
 
 ## 20251115
 
-- 1145 EDT
+- 1145 ET
   - 1 Min. Mobility
     - Hang from bar 1x30secs medium, parallel grip
     - Door knob squat 1x30 secs
@@ -289,7 +292,7 @@
 
 ## 20251114
 
-- 1030 EDT Armor Building Formula (W3D2)
+- 1030 ET Armor Building Formula (W3D2)
   - 1 Min. Mobility
     - Hang from bar 1x30secs, wide, overhand grip
     - Door knob squat 1x30 secs
@@ -320,7 +323,7 @@
 
 ## 20251110
 
-- 1400 EDT Armor Building Formula (W3D1)
+- 1400 ET Armor Building Formula (W3D1)
   - Warm Up
     - 1 Min. Mobility
       - Hang from bar 1x30secs, narrow, underhand grip
@@ -355,7 +358,7 @@
 
 ## 20251106
 
-- ? EDT Armor Building Formula (W2D3)
+- ? ET Armor Building Formula (W2D3)
   - Warm Up
     - 1 Min. Mobility
       - Hang from bar 1x30secs, narrow, underhand grip
@@ -379,7 +382,7 @@
 
 ## 20251102
 
-- 0945 EDT
+- 0945 ET
   - Original Strength Resets
     - Deep Breathing
     - Nodding
