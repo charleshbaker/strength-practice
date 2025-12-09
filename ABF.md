@@ -1,4 +1,21 @@
 
+## 20251204
+
+- 1415 ET Armor Building Formula (W7D1)
+  - Warm Up
+    - 1 Min. Mobility
+      - Hang from bar 1x30secs, narrow, underhand grip
+      - Door knob squat 1x30 secs
+    - Kettlbell Halo 1x5x25# each direction
+    - Broomstick Halo 1x5 each direction
+    - Broomstick dislocations 1x5
+  - Double Kettlebell Clean, Press, press...ladders
+    - 2x(2,3,5,10)x(2x35#) = 8 cleans and 40 presses
+    - 1x(2,3,5)x(2x35#) = 3 cleans and 10 presses
+    - 4x(2,3)x(2x35#) = 8 cleans and 20 presses
+    - Total 19 cleans and 70 presses
+  - Walk 0:57:01, 3.40, 1 long hill backwards
+
 ## 20251208
 
 - 1400 ET
@@ -17,7 +34,7 @@
   - 1 Min. Mobility
     - Hang from bar 1x30secs medium, parallel grip
     - Door knob squat 1x30 secs
-  - Farmer Carry w/ 2x26# kettlebells, 0:09:28, 0.43
+  - Farmer Carry w/ 2x26# kettlebells, 0:09:28, 0.43km
   - Walk 0:38:54, 2.15km, 1 long hill backwards
 
 ## 20251207
@@ -27,7 +44,7 @@
     - Hang from bar 1x30secs, medium, parallel grip
     - Door knob squat 1x30 secs
 - 1437 ET 
-  - 20# Ruck, 58:34, 3.26km
+  - 20# Ruck, 58:34, 3.26km, 1 long hill backwards
 
 ## 20251206
 
