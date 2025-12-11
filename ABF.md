@@ -1,7 +1,7 @@
 
 ## 20251211
 
-- 1415 ET Armor Building Formula (W7D2)
+- 1215 ET Armor Building Formula (W7D2)
   - Warm Up
     - 1 Min. Mobility
       - Hang from bar 1x40secs, narrow, underhand grip
@@ -15,6 +15,9 @@
       - 1 press
       - 3 squats
   - Walk 0:25:22, 1.38km, 1 long hill backwards
+
+- 1715 ET 
+  - Walk 0:28:20, 1.63km
 
 ## 20251209
 
