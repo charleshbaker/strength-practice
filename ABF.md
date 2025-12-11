@@ -1,4 +1,21 @@
 
+## 20251211
+
+- 1415 ET Armor Building Formula (W7D2)
+  - Warm Up
+    - 1 Min. Mobility
+      - Hang from bar 1x40secs, narrow, underhand grip
+      - Door knob squat 1x40 secs
+    - Kettlbell Halo 1x5x25# each direction
+    - Broomstick Halo 1x5 each direction
+    - Broomstick dislocations 1x5
+  - ABC 30 1 round every 75 seconds
+    - 30x(2x35#) = 60 cleans, 30 presses, 90 squats
+      - 2 cleans
+      - 1 press
+      - 3 squats
+  - Walk 0:25:22, 1.38km, 1 long hill backwards
+
 ## 20251209
 
 - 1415 ET Armor Building Formula (W7D1)
