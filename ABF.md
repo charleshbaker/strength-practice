@@ -1,4 +1,31 @@
 
+## 20251213
+
+- 1415 ET Armor Building Formula (W7D1)
+  - Warm Up
+    - 1 Min. Mobility
+      - Hang from bar 1x30secs, narrow, underhand grip
+      - Door knob squat 1x30 secs
+    - Kettlbell Halo 1x5x25# each direction
+    - Broomstick Halo 1x5 each direction
+    - Broomstick dislocations 1x5
+  - Double Kettlebell Clean, Press, press...ladders
+    - 3x(2,3,5,10)x(2x35#) = 12 cleans and 60 presses
+    - 2x(2,3,5)x(2x35#) = 6 cleans and 20 presses
+    - Total 18 cleans and 80 presses
+    - Had to push press last rep on 2nd set of 10, and last 4 reps on 3rd set of 10
+  - Walk 0:59:59, 3.55 km, 1 long hill backwards
+
+## 20251212
+
+- 1650 ET
+  - Walk 0:59:04, 3.41 km 
+
+- 1835 ET
+  - 1 Min. Mobility
+    - Hang from bar 1x40secs, wide, overhand grip
+    - Door knob squat 1x40 secs
+
 ## 20251211
 
 - 1215 ET Armor Building Formula (W7D2)
@@ -14,10 +41,10 @@
       - 2 cleans
       - 1 press
       - 3 squats
-  - Walk 0:25:22, 1.38km, 1 long hill backwards
+  - Walk 0:25:22, 1.38 km, 1 long hill backwards
 
 - 1715 ET 
-  - Walk 0:28:20, 1.63km
+  - Walk 0:28:20, 1.63 km
 
 ## 20251209
 
@@ -34,7 +61,7 @@
     - 1x(2,3,5)x(2x35#) = 3 cleans and 10 presses
     - 4x(2,3)x(2x35#) = 8 cleans and 20 presses
     - Total 19 cleans and 70 presses
-  - Walk 0:57:01, 3.40, 1 long hill backwards
+  - Walk 0:57:01, 3.40 km, 1 long hill backwards
 
 ## 20251208
 
