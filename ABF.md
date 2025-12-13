@@ -1,7 +1,7 @@
 
 ## 20251213
 
-- 1415 ET Armor Building Formula (W7D1)
+- 1415 ET Armor Building Formula (W7D3)
   - Warm Up
     - 1 Min. Mobility
       - Hang from bar 1x30secs, narrow, underhand grip
