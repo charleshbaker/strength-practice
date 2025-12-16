@@ -1,4 +1,31 @@
 
+## 20251216
+
+- 1200 ET Armor Building Formula (W8D1)
+  - Warm Up
+    - 1 Min. Mobility
+      - Hang from bar 1x40secs, narrow, underhand grip
+      - Door knob squat 1x30 secs
+    - Kettlbell Halo 1x5x25# each direction
+    - Broomstick Halo 1x5 each direction
+    - Broomstick dislocations 1x5
+  - ABC 10 1 round every 75 seconds
+    - 10x(2x44#) = 20 cleans, 10 presses, 30 squats
+      - 2 cleans
+      - 1 press
+      - 3 squats
+  - Walk 0:50:35, 1.74 km, 1 short hill backwards
+
+## 20251215
+
+- 1247 ET
+  - Walk 0:52:37, 2.52km, 1 long hill backwards
+
+- 2130 ET
+  - 1 Min. Mobility
+    - Hang from bar 1x30secs medium, parallel grip
+    - Door knob squat 1x25 secs
+
 ## 20251214
 
 - 1400 ET
