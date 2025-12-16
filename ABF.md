@@ -15,6 +15,9 @@
       - 1 press
       - 3 squats
   - Walk 0:50:35, 1.74 km, 1 short hill backwards
+    - My walk was interrupted by plumbers showing up to the house at least 30 minutes early.
+    - I headed back early then walked around the yard w/ periodic interruptions.
+    - Thus the short distance and long time.
 
 ## 20251215
 
