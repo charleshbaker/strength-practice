@@ -1,6 +1,26 @@
 
+## 20251218
+
+- 1300 ET Armor Building Formula (W8D2)
+  - Warm Up
+    - 1 Min. Mobility
+      - Hang from bar 1x40secs, narrow, underhand grip
+      - Door knob squat 1x30 secs
+    - Kettlbell Halo 1x5x25# each direction
+    - Broomstick Halo 1x5 each direction
+    - Broomstick dislocations 1x5
+  - Double Kettlebell Clean, Press, press...ladders
+    - 2x(2,3,5)x(2x44#) = 6 cleans and 20 presses
+    - 2x(2,3)x(2x44#) = 4 cleans and 10 presses
+    - Getting to 100 reps w/ the 44s(20kg) is gonna be a tough road
+
+- 1504 ET
+  - Walk 0:47:53, 2.37km, 1 long hill backwards 
+
 ## 20251217
 
+- ET
+  - Walk 0:30:41, 1.65 km, 1 long hill backwards
 
 ## 20251216
 
