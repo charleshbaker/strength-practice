@@ -1,4 +1,15 @@
 
+## 20251229
+
+- 1526 ET
+  - Walk 55:29, 3.23km, 1 long hill backwards
+
+- 1818 ET
+  - 1 Min. Mobility
+    - Hang from bar 1x30secs, wide, overhand grip
+    - Door knob squat 1x30 secs
+
+
 ## 20251228
 
 - 1015 ET
