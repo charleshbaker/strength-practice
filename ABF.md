@@ -1,4 +1,46 @@
 
+## 20251228
+
+- 1015 ET
+  - Original Strength Resets
+    - Deep Breathing
+    - Nodding
+    - Rolling
+    - Rocking
+    - Crawling
+  - McGill Big 3
+    - Curl Ups 3,2,1x10 sec hold each alternating right knee up then left knee up
+    - Kneeling Side Plank 3,2,1x10 sec hold each alternating sides
+    - Bird Dogs 3,2,1x10 sec hold each alternating sides
+  - FroZones 3,2,1x10 sec hold each alternating sides
+  - Stationary Bike
+    - 10 minutes steady state
+    - 10 minutes sprint intervals 15 secs fast, 45 secs slow
+    - 10 minutes steady state
+
+
+## 20251227
+
+- 1538 ET
+  - Walk 0:35:38, 1.79km
+
+## 20251226
+
+- 1553 ET
+  - Walk 0:38:39, 1.89km
+
+## 20251225
+
+- 1558 ET
+  - Walk 0:34:42, 1.63km
+
+## 20251224
+
+- I got very sick right after my last training session on the 18th
+
+- 1356 ET
+  - Walk 0:37:57, 1.63km
+
 ## 20251218
 
 - 1300 ET Armor Building Formula (W8D2)
