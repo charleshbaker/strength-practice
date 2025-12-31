@@ -1,4 +1,24 @@
 
+## 20251230
+
+- 1600 ET Armor Building Formula (W8D3)
+  - Warm Up
+    - 1 Min. Mobility
+      - Hang from bar 1x30secs, medium, parallel grip
+      - Door knob squat 1x30 secs
+    - Kettlbell Halo 1x5x35# each direction
+    - Broomstick Halo 1x5 each direction
+    - Broomstick dislocations 1x5
+  - ABC 10 1 round every 75 seconds
+    - 10x(2x44#) = 20 cleans, 10 presses, 30 squats
+      - 2 cleans
+      - 1 press
+      - 3 squats
+  - Walk 0:59:41, 3.25 km, 1 long hill backwards
+    - After being sick two weeks I came back and did the same ABC I did back on 20251216
+    - Completed the 8 week program in, sadly, 10 weeks due to illness.
+
+
 ## 20251229
 
 - 1526 ET
