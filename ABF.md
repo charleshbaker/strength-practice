@@ -1,4 +1,24 @@
 
+## 20260101
+
+- 1900 ET
+  - 1 Min. Mobility
+    - Hang from bar 1x30secs, wide, overhand grip
+    - Door knob squat 1x30 secs
+
+- 1130 ET
+  - 1 Mile Lake Placid Loop at Paris Mtn. St. Park
+
+## 20251231
+
+- 1651 ET
+  - Walk 29:45, 1.68km, 1 long hill backwards
+
+- 2100 ET
+  - 1 Min. Mobility
+    - Hang from bar 1x30secs, narrow, underhand grip
+    - Door knob squat 1x30 secs
+
 ## 20251230
 
 - 1600 ET Armor Building Formula (W8D3)
@@ -18,7 +38,6 @@
     - After being sick two weeks I came back and did the same ABC I did back on 20251216
     - Completed the 8 week program in, sadly, 10 weeks due to illness.
 
-
 ## 20251229
 
 - 1526 ET
@@ -28,7 +47,6 @@
   - 1 Min. Mobility
     - Hang from bar 1x30secs, wide, overhand grip
     - Door knob squat 1x30 secs
-
 
 ## 20251228
 
