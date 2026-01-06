@@ -6,7 +6,7 @@
     - 1 Min. Mobility
       - Hang from bar 1x30secs, wide, overhand grip
       - Door knob squat 1x30 secs
-    -  Circuit 3 rounds
+    - Circuit 3 rounds
       - Goblet squat 5x35#
       - Hip Bridge 4
       - Kettlebell Halo 5x35# L,R
