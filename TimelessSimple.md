@@ -10,8 +10,9 @@
       - Goblet squat 5x35#
       - Hip Bridge 4
       - Kettlebell Halo 5x35# L,R
-  - 1 Hand Kettlbell Swings L,R 6x10x35#
-  - Turkish Get Ups L,R 6x1x25#
+  - Timeless Simple
+    - 1 Hand Kettlbell Swings L,R 6x10x35#
+    - Turkish Get Ups L,R 6x1x25#
   - Walk 0:45:28, 2.61km, 1 long hill backwards
 
 ## 20260102
