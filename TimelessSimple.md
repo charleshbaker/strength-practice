@@ -1,4 +1,20 @@
 
+## 20260108
+
+- 1445 ET Timeless Simple (W2D2)
+  - Warm Up
+    - 1 Min. Mobility
+      - Hang from bar 1x30secs medium, parallel grip
+      - Door knob squat 1x30 secs
+    - Circuit 3 rounds
+      - Goblet squat 5x35#, put heels on small plates
+      - Hip Bridge 5
+      - Kettlebell Halo 5x35# L,R
+  - Timeless Simple
+    - 2 Hand Kettlbell Swings 10x10x35#
+    - Turkish Get Ups R,L 10x1x26#
+  - Walk 0:54:54, 3.30km, 1 long hill backwards
+
 ## 20260106
 
 - 1445 ET Timeless Simple (W2D1)
@@ -8,7 +24,7 @@
       - Door knob squat 1x30 secs
     - Circuit 3 rounds
       - Goblet squat 5x35#
-      - Hip Bridge 4
+      - Hip Bridge 5
       - Kettlebell Halo 5x35# L,R
   - Timeless Simple
     - 1 Hand Kettlbell Swings L,R 6x10x35#
