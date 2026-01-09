@@ -1,7 +1,7 @@
 
 ## 20260108
 
-- 1445 ET Timeless Simple (W2D2)
+- 1400 ET Timeless Simple (W2D2)
   - Warm Up
     - 1 Min. Mobility
       - Hang from bar 1x30secs medium, parallel grip
