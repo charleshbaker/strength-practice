@@ -1,4 +1,24 @@
 
+## 20260109
+
+- 1615 ET
+  - 1 Min. Mobility
+    - Hang from bar 1x40secs wide, overhand grip
+    - Door knob squat 1x40 secs
+  - Original Strength Resets
+    - Deep Breathing
+    - Nodding
+    - Rolling
+    - Rocking
+    - Crawling
+  - McGill Big 3
+    - Curl Ups 3,2,1x10 sec hold each alternating right knee up then left knee up
+    - Kneeling Side Plank 3,2,1x10 sec hold each alternating sides
+    - Bird Dogs 3,2,1x10 sec hold each alternating sides
+  - FroZones 3,2,1x10 sec hold each alternating sides
+  - Unloaded Turkish Getups 1 each L,R
+
+
 ## 20260108
 
 - 1400 ET Timeless Simple (W2D2)
