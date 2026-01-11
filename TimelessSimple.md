@@ -1,9 +1,11 @@
 
 ## 20260111
+
 - 1200 ET Timeless Simple (W2D3)
-  - 1 Min. Mobility
-    - Hang from bar 1x30secs medium, parallel grip
-    - Door knob squat 1x30 secs
+  - Warm Up
+    - 1 Min. Mobility
+      - Hang from bar 1x30secs medium, parallel grip
+      - Door knob squat 1x30 secs
     - Circuit 3 rounds
       - Goblet squat 5x35#, put heels on small plates
       - Hip Bridge 5
