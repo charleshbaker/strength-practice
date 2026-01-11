@@ -1,6 +1,6 @@
 
 ## 20260111
-- 1200 ET
+- 1200 ET Timeless Simple (W2D3)
   - 1 Min. Mobility
     - Hang from bar 1x30secs medium, parallel grip
     - Door knob squat 1x30 secs
@@ -9,9 +9,9 @@
       - Hip Bridge 5
       - Kettlebell Halo 5x35# L,R
   - Timeless Simple 0:34:25
-    - 1 Hand Kettlbell Swings L,R 10x10x35#
+    - 1 Hand Kettlebell Swings L,R 10x10x35#
     - Turkish Get Ups R,L 10x1x26#
-  - Kettlbell Mile Walk, suitecase carry alternating hands 35# 0:32:00, 1.67km
+  - Kettlebell Mile Walk, suitecase carry alternating hands 35# 0:32:00, 1.67km
   - Walk 0:29:40, 1.63km, 1 long hill backwards
 
 ## 20260110
@@ -53,7 +53,7 @@
       - Hip Bridge 5
       - Kettlebell Halo 5x35# L,R
   - Timeless Simple
-    - 2 Hand Kettlbell Swings 10x10x35#
+    - 2 Hand Kettlebell Swings 10x10x35#
     - Turkish Get Ups R,L 10x1x26#
   - Walk 0:54:54, 3.30km, 1 long hill backwards
 
@@ -69,7 +69,7 @@
       - Hip Bridge 5
       - Kettlebell Halo 5x35# L,R
   - Timeless Simple
-    - 1 Hand Kettlbell Swings L,R 6x10x35#
+    - 1 Hand Kettlebell Swings L,R 6x10x35#
     - Turkish Get Ups L,R 6x1x26#
   - Walk 0:45:28, 2.61km, 1 long hill backwards
 
@@ -85,6 +85,6 @@
     - Broomstick dislocations 1x5
     - Hip Bridge 1x10
   - Timeless Simple
-    - 1 Hand Kettlbell Swings L,R 6x10x26#
+    - 1 Hand Kettlebell Swings L,R 6x10x26#
     - Turkish Get Ups L,R 6x1x26#
   - Walk 1:02:39, 3.38km, 1 long hill backwards
