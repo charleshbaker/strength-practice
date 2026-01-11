@@ -1,10 +1,32 @@
 
+## 20260111
+- 1200 ET
+  - 1 Min. Mobility
+    - Hang from bar 1x30secs medium, parallel grip
+    - Door knob squat 1x30 secs
+    - Circuit 3 rounds
+      - Goblet squat 5x35#, put heels on small plates
+      - Hip Bridge 5
+      - Kettlebell Halo 5x35# L,R
+  - Timeless Simple 0:34:25
+    - 1 Hand Kettlbell Swings L,R 10x10x35#
+    - Turkish Get Ups R,L 10x1x26#
+  - Kettlbell Mile Walk, suitecase carry alternating hands 35# 0:32:00, 1.67km
+  - Walk 0:29:40, 1.63km, 1 long hill backwards
+
+## 20260110
+
+- 2100 ET
+  - 1 Min. Mobility
+    - Hang from bar 1x30secs medium, parallel grip
+    - Door knob squat 1x30 secs
+
 ## 20260109
 
 - 1615 ET
   - 1 Min. Mobility
-    - Hang from bar 1x40secs wide, overhand grip
-    - Door knob squat 1x40 secs
+    - Hang from bar 1x30secs wide, overhand grip
+    - Door knob squat 1x30 secs
   - Original Strength Resets
     - Deep Breathing
     - Nodding
