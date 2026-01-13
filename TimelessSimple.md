@@ -1,7 +1,7 @@
 
 ## 20260113
 
-- 1200 ET Timeless Simple (W2D3)
+- 1200 ET Timeless Simple (W3D1)
   - Warm Up
     - 1 Min. Mobility
       - Hang from bar 1x30secs narrow, underhand grip
