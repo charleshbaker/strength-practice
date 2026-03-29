@@ -1,4 +1,32 @@
 
+## 20260323
+
+- 1115 ET Timeless Simple (W1D2)
+  - Warm Up
+    - 1 Min. Mobility
+      - Hang from bar 1x30 secs medium, overhand grip
+      - Door knob squat 1x30 secs
+    - Circuit 3 rounds
+      - Goblet squat 5x18#, put heels on small plates, 1 curl w/ elbows inside knees in the bottom of the squat
+      - Hip Bridge 5
+      - Kettlebell Halo 5x18# L,R
+  - Timeless Simple 0:24:30
+    - 1 Hand Kettlebell Swings L,R 10x10x18#
+    - Turkish Get Ups R,L 10x1x18#
+
+## 20260321
+
+- 1330 ET Timeless Simple (W1D1)
+  - Warm Up
+    - Circuit 3 rounds
+      - Hip Bridge 5
+      - Kettlebell Halo 5x18# L,R
+      - Goblet squat 5x18#, put heels on small plates, 1 curl w/ elbows inside knees in the bottom of the squat
+  - Timeless Simple 0:28:35
+    - 1 Hand Kettlebell Swings L,R 10x10x18#
+    - Turkish Get Ups R,L 10x1x18#
+- Visiting friends in Llandudno, they only had an 8kg kettlebell.
+
 ## 20260120
 
 - 1430 ET
@@ -9,7 +37,7 @@
 - 1330 ET Timeless Simple (W4D1)
   - Warm Up
     - 1 Min. Mobility
-      - Hang from bar 1x45secs narrow, underhand grip
+      - Hang from bar 1x45 secs narrow, underhand grip
       - Door knob squat 1x45 secs
     - Circuit 3 rounds
       - Goblet squat 5x35#, put heels on small plates, 1 curl w/ elbows inside knees in the bottom of the squat
