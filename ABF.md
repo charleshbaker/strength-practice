@@ -1,4 +1,25 @@
 
+## 20260502
+
+- 1315 ET Armor Building Formula (R2W1D1)
+  - Warm Up
+    - 1 Min. Mobility
+      - Hang from bar 1x30secs, wide, overhand grip
+      - Door knob squat 1x30 secs
+  - Double Kettlebell Clean, Press, press...ladders
+    - 1x(2,3,5,10)x(2x25#) = 4 cleans and 20 presses
+    - 1x(2,3,5)x(2x25#) = 3 cleans and 10 presses
+  - ABC5 1 round every 60 seconds
+    - 5x(2x25#) = 10 cleans, 5 presses, 15 squats
+      - 2 cleans
+      - 1 press
+      - 3 squats
+- 1340 ET
+  - Walk 0:42:05, 2.39km, 1 long hill backwards 
+
+  
+
+
 ## 20260101
 
 - 1900 ET
