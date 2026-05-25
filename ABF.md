@@ -1,3 +1,77 @@
+# 
+#  ABC = Armor Building Complex = 2 double kettlebell cleans, 1 double kettlbell press, 3 double kettlebell front squats
+#
+
+## 20260524
+
+- 1130 ET 
+  - 1 Min. Mobility
+    - Hang from bar 1x30 secs, wide overhand grip
+    - Dook knob squat 1x30 secs
+  - Original Strength Resets
+    - Deep Breathing
+    - Nodding
+    - Rolling
+    - Rocking
+    - Crawling
+
+- 1446 ET 
+  - Walk at Conestee w/ LEB 1:20:47, 4.37 km
+
+## 20260523
+
+- 1630 ET Armor Building Formula (R2W1D3)
+  - Warm Up
+    - 1 Min. Mobility
+      - Hang from bar 1x30secs, narrow, underhand grip
+      - Door knob squat 1x30 secs
+  - Double Kettlebell Clean, Press, press...ladders
+    - 3x(2,3,5)x(2x25#) = 9 cleans and 30 presses
+  - ABC5 1 round every 60 seconds
+    - 5x(2x25#) = 10 cleans, 5 presses, 15 front squats
+- 1648 ET
+  - Walk 0:55:55, 3.22km, 1 long hill backwards 
+
+## 20260519
+
+- 1904 ET
+  - Walk at Unity Park w/ LEB, 0:53:31, 3.28km
+
+## 20260515
+
+- 16:13 ET
+  - 20# Ruck, 0:27:53, 1.68km
+
+## 20260514
+
+- 1315 ET Armor Building Formula (R2W1D2)
+  - Warm Up
+    - 1 Min. Mobility
+      - Hang from bar 1x30secs, wide, overhand grip
+      - Door knob squat 1x30 secs
+  - ABC5 1 round every 60 seconds
+    - 5x(2x25#) = 10 cleans, 5 presses, 15 front squats
+  - Double Kettlebell Clean, Press, press...ladders
+    - 3x(2,3,5)x(2x25#) = 9 cleans and 30 presses
+- 1340 ET
+  - Walk 0:42:05, 2.39km, 1 long hill backwards 
+
+## 20260512
+### Restarting again!
+
+- 1315 ET Armor Building Formula (R2W1D1)
+  - Warm Up
+    - 1 Min. Mobility
+      - Hang from bar 1x30secs, wide, overhand grip
+      - Door knob squat 1x30 secs
+### Messed up and started w/ ABC
+  - ABC1 1(2x25#) = 2 cleans, 1 press, 3 front squats
+  - Double Kettlebell Clean, Press, press...ladders
+    - 3x(2,3,5)x(2x25#) = 9 cleans and 30 presses
+  - ABC5 1 round every 60 seconds
+    - 5x(2x25#) = 10 cleans, 5 presses, 15 front squats
+- 1340 ET
+  - Walk 0:42:05, 2.39km, 1 long hill backwards 
 
 ## 20260502
 
@@ -11,14 +85,12 @@
     - 1x(2,3,5)x(2x25#) = 3 cleans and 10 presses
   - ABC5 1 round every 60 seconds
     - 5x(2x25#) = 10 cleans, 5 presses, 15 squats
+    
       - 2 cleans
       - 1 press
       - 3 squats
 - 1340 ET
   - Walk 0:42:05, 2.39km, 1 long hill backwards 
-
-  
-
 
 ## 20260101
 
