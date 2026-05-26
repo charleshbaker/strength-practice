@@ -10,9 +10,9 @@
       - Hang from bar 1x30secs, parallel, neutral grip
       - Door knob squat 1x30 secs
   - ABC10 1 round every 60 seconds
-    - 10x(2x25#) = 20 cleans, 10 presses, 30 front squats
+    - 10x(2x26#) = 20 cleans, 10 presses, 30 front squats
   - Double Kettlebell Clean, Press, press...ladders
-    - 4x(2,3,5)x(2x25#) = 12 cleans and 40 presses
+    - 4x(2,3,5)x(2x26#) = 12 cleans and 40 presses
 - 1537 ET
   - Walk 1:04:12, 3.47km, 1 long hill backwards 
 
@@ -40,9 +40,9 @@
       - Hang from bar 1x30secs, narrow, underhand grip
       - Door knob squat 1x30 secs
   - Double Kettlebell Clean, Press, press...ladders
-    - 3x(2,3,5)x(2x25#) = 9 cleans and 30 presses
+    - 3x(2,3,5)x(2x26#) = 9 cleans and 30 presses
   - ABC5 1 round every 60 seconds
-    - 5x(2x25#) = 10 cleans, 5 presses, 15 front squats
+    - 5x(2x26#) = 10 cleans, 5 presses, 15 front squats
 - 1648 ET
   - Walk 0:55:55, 3.22km, 1 long hill backwards 
 
@@ -64,9 +64,9 @@
       - Hang from bar 1x30secs, wide, overhand grip
       - Door knob squat 1x30 secs
   - ABC5 1 round every 60 seconds
-    - 5x(2x25#) = 10 cleans, 5 presses, 15 front squats
+    - 5x(2x26#) = 10 cleans, 5 presses, 15 front squats
   - Double Kettlebell Clean, Press, press...ladders
-    - 3x(2,3,5)x(2x25#) = 9 cleans and 30 presses
+    - 3x(2,3,5)x(2x26#) = 9 cleans and 30 presses
 - 1340 ET
   - Walk 0:42:05, 2.39km, 1 long hill backwards 
 
@@ -79,11 +79,11 @@
       - Hang from bar 1x30secs, wide, overhand grip
       - Door knob squat 1x30 secs
 ### Messed up and started w/ ABC
-  - ABC1 1(2x25#) = 2 cleans, 1 press, 3 front squats
+  - ABC1 1(2x26#) = 2 cleans, 1 press, 3 front squats
   - Double Kettlebell Clean, Press, press...ladders
-    - 3x(2,3,5)x(2x25#) = 9 cleans and 30 presses
+    - 3x(2,3,5)x(2x26#) = 9 cleans and 30 presses
   - ABC5 1 round every 60 seconds
-    - 5x(2x25#) = 10 cleans, 5 presses, 15 front squats
+    - 5x(2x26#) = 10 cleans, 5 presses, 15 front squats
 - 1340 ET
   - Walk 0:42:05, 2.39km, 1 long hill backwards 
 
@@ -95,10 +95,10 @@
       - Hang from bar 1x30secs, wide, overhand grip
       - Door knob squat 1x30 secs
   - Double Kettlebell Clean, Press, press...ladders
-    - 1x(2,3,5,10)x(2x25#) = 4 cleans and 20 presses
-    - 1x(2,3,5)x(2x25#) = 3 cleans and 10 presses
+    - 1x(2,3,5,10)x(2x26#) = 4 cleans and 20 presses
+    - 1x(2,3,5)x(2x26#) = 3 cleans and 10 presses
   - ABC5 1 round every 60 seconds
-    - 5x(2x25#) = 10 cleans, 5 presses, 15 squats
+    - 5x(2x26#) = 10 cleans, 5 presses, 15 squats
     
       - 2 cleans
       - 1 press
@@ -204,7 +204,7 @@
     - 1 Min. Mobility
       - Hang from bar 1x40secs, narrow, underhand grip
       - Door knob squat 1x30 secs
-    - Kettlbell Halo 1x5x25# each direction
+    - Kettlbell Halo 1x5x26# each direction
     - Broomstick Halo 1x5 each direction
     - Broomstick dislocations 1x5
   - Double Kettlebell Clean, Press, press...ladders
@@ -227,7 +227,7 @@
     - 1 Min. Mobility
       - Hang from bar 1x40secs, narrow, underhand grip
       - Door knob squat 1x30 secs
-    - Kettlbell Halo 1x5x25# each direction
+    - Kettlbell Halo 1x5x26# each direction
     - Broomstick Halo 1x5 each direction
     - Broomstick dislocations 1x5
   - ABC 10 1 round every 75 seconds
@@ -269,7 +269,7 @@
     - Hang from bar 1x40secs wide, overhand grip
     - Door knob squat 1x40 secs
   - Cook Drill 35# 2 rounds per arm and then Farmer Carry w/ 2x44#, 15:37, 0.64km
-  - 25# Ruck 0:56:13, 3.23km, 1 long hill backwards
+  - 26# Ruck 0:56:13, 3.23km, 1 long hill backwards
 
 ## 20251213
 
@@ -278,7 +278,7 @@
     - 1 Min. Mobility
       - Hang from bar 1x40secs, narrow, underhand grip
       - Door knob squat 1x40 secs
-    - Kettlbell Halo 1x5x25# each direction
+    - Kettlbell Halo 1x5x26# each direction
     - Broomstick Halo 1x5 each direction
     - Broomstick dislocations 1x5
   - Double Kettlebell Clean, Press, press...ladders
@@ -305,7 +305,7 @@
     - 1 Min. Mobility
       - Hang from bar 1x40secs, wide, overhand grip
       - Door knob squat 1x40 secs
-    - Kettlbell Halo 1x5x25# each direction
+    - Kettlbell Halo 1x5x26# each direction
     - Broomstick Halo 1x5 each direction
     - Broomstick dislocations 1x5
   - ABC 30 1 round every 75 seconds
@@ -325,7 +325,7 @@
     - 1 Min. Mobility
       - Hang from bar 1x30secs, narrow, underhand grip
       - Door knob squat 1x30 secs
-    - Kettlbell Halo 1x5x25# each direction
+    - Kettlbell Halo 1x5x26# each direction
     - Broomstick Halo 1x5 each direction
     - Broomstick dislocations 1x5
   - Double Kettlebell Clean, Press, press...ladders
@@ -372,7 +372,7 @@
     - 1 Min. Mobility
       - Hang from bar 1x30secs, narrow, underhand grip
       - Door knob squat 1x30 secs
-    - Kettlbell Halo 1x5x25# each direction
+    - Kettlbell Halo 1x5x26# each direction
     - Broomstick Halo 1x5 each direction
     - Broomstick dislocations 1x5
   - ABC EMOM20 
@@ -389,7 +389,7 @@
     - 1 Min. Mobility
       - Hang from bar 1x30secs, medium, parallel grip
       - Door knob squat 1x30 secs
-    - Kettlbell Halo 1x5x25# each direction
+    - Kettlbell Halo 1x5x26# each direction
     - Broomstick Halo 1x5 each direction
     - Broomstick dislocations 1x5
   - Double Kettlebell Clean, Press, press...ladders
@@ -413,7 +413,7 @@
     - 1 Min. Mobility
       - Hang from bar 1x30secs, narrow, underhand grip
       - Door knob squat 1x30 secs
-    - Kettlbell Halo 1x5x25# each direction
+    - Kettlbell Halo 1x5x26# each direction
     - Broomstick Halo 1x5 each direction
     - Broomstick dislocations 1x5
   - ABC EMOM10 
@@ -449,7 +449,7 @@
     - 1 Min. Mobility
       - Hang from bar 1x30secs, wide, overhand grip
       - Door knob squat 1x30 secs
-    - Kettlbell Halo 1x5x25# each direction
+    - Kettlbell Halo 1x5x26# each direction
     - Broomstick Halo 1x5 each direction
     - Broomstick dislocations 1x5
   - Double Kettlebell Clean, Press, press...ladders
@@ -482,7 +482,7 @@
     - 1 Min. Mobility
       - Hang from bar 1x30secs, medium, parallel grip
       - Door knob squat 1x30 secs
-    - Kettlbell Halo 1x5x25# each direction
+    - Kettlbell Halo 1x5x26# each direction
     - Broomstick Halo 1x5 each direction
     - Broomstick dislocations 1x5
   - ABC EMOM20 
@@ -518,7 +518,7 @@
     - 1 Min. Mobility
       - Hang from bar 1x30secs, medium, parallel grip
       - Door knob squat 1x30 secs
-    - Kettlbell Halo 1x5x25# each direction
+    - Kettlbell Halo 1x5x26# each direction
     - Broomstick Halo 1x5 each direction
     - Broomstick dislocations 1x5
   - Double Kettlebell Clean, Press, press...ladders
@@ -544,7 +544,7 @@
     - Kneeling Side Plank 3,2,1x10 sec hold each alternating sides
     - Bird Dogs 3,2,1x10 sec hold each alternating sides
   - FroZones 3,2,1x10 sec hold each alternating sides
-  - Kettlebell Mile 25# 0:28:23, 1.69km
+  - Kettlebell Mile 26# 0:28:23, 1.69km
   - Walk 0:31:27, 1.64km
 
 ## 20251123
@@ -554,7 +554,7 @@
     - 1 Min. Mobility
       - Hang from bar 1x30secs, medium, parallel grip
       - Door knob squat 1x30 secs
-    - Kettlbell Halo 1x5x25# each direction
+    - Kettlbell Halo 1x5x26# each direction
     - Broomstick Halo 1x5 each direction
     - Broomstick dislocations 1x5
   - ABC EMOM10 
@@ -573,7 +573,7 @@
     - 1 Min. Mobility
       - Hang from bar 1x30secs, narrow, underhand grip
       - Door knob squat 1x30 secs
-    - Kettlbell Halo 1x5x25# each direction
+    - Kettlbell Halo 1x5x26# each direction
     - Broomstick Halo 1x5 each direction
     - Broomstick dislocations 1x5
   - Double Kettlebell Clean, Press, press...ladders
@@ -589,7 +589,7 @@
     - 1 Min. Mobility
       - Hang from bar 1x30secs, medium, parallel grip
       - Door knob squat 1x30 secs
-    - Kettlbell Halo 1x5x25# each direction
+    - Kettlbell Halo 1x5x26# each direction
     - Broomstick Halo 1x5 each direction
     - Broomstick dislocations 1x5
   - ABC EMOM10 
@@ -628,7 +628,7 @@
     - 1 Min. Mobility
       - Hang from bar 1x30secs, narrow, underhand grip
       - Door knob squat 1x30 secs
-    - Kettlbell Halo 1x5x25# each direction
+    - Kettlbell Halo 1x5x26# each direction
     - Broomstick Halo 1x5 each direction
     - Broomstick dislocations 1x5
   - Double Kettlebell Clean, Press, press...ladders
@@ -694,7 +694,7 @@
     - 1 Min. Mobility
       - Hang from bar 1x30secs, narrow, underhand grip
       - Door knob squat 1x30 secs
-    - Kettlbell Halo 1x5x25# each direction
+    - Kettlbell Halo 1x5x26# each direction
     - Broomstick Halo 1x5 each direction
     - Broomstick dislocations 1x5
   - Double Kettlebell Clean, Press, press...ladders
@@ -729,7 +729,7 @@
     - 1 Min. Mobility
       - Hang from bar 1x30secs, narrow, underhand grip
       - Door knob squat 1x30 secs
-    - Kettlbell Halo 1x5x25# each direction
+    - Kettlbell Halo 1x5x26# each direction
     - Broomstick Halo 1x5 each direction
     - Broomstick dislocations 1x5
   - ABC EMOM10 w/ 2x35# = 20 cleans, 10 presses, 30 squats
@@ -773,7 +773,7 @@
     - 1 Min. Mobility
       - Hang from bar 1x30secs, wide, overhand grip
       - Door knob squat 1x30 secs
-    - Kettlbell Halo 1x5x25# each direction
+    - Kettlbell Halo 1x5x26# each direction
     - Broomstick Halo 1x5 each direction
     - Broomstick dislocations 1x5
   - Double Kettlebell Clean, Press, press...ladders
@@ -791,7 +791,7 @@
     - 1 Min. Mobility
       - Hang from bar 1x30secs, narrow, underhand grip
       - Door knob squat 1x30 secs
-    - Kettlbell Halo 1x5x25# each direction
+    - Kettlbell Halo 1x5x26# each direction
     - Broomstick Halo 1x5 each direction
     - Broomstick dislocations 1x5
   - ABC EMOM7 w/ 2x35# = 14 cleans, 7 presses, 21 squats
@@ -809,7 +809,7 @@
     - 1 Min. Mobility
       - Hang from bar 1x30secs, medium, parallel grip
       - Door knob squat 1x30 secs
-    - Kettlbell Halo 1x5x25# each direction
+    - Kettlbell Halo 1x5x26# each direction
     - Broomstick Halo 1x5 each direction
     - Broomstick dislocations 1x5
   - Double Kettlebell Clean, Press, press...ladders
@@ -846,7 +846,7 @@
     - 1 Min. Mobility
       - Hang from bar 1x30secs, medium, parallel grip
       - Door knob squat 1x30 secs
-    - Kettlbell Halo 1x5x25# each direction
+    - Kettlbell Halo 1x5x26# each direction
     - Broomstick Halo 1x5 each direction
     - Broomstick dislocations 1x5
   - ABC EMOM5 w/ 2x35# = 10 cleans, 5 presses, 15 squats
@@ -865,7 +865,7 @@
     - 1 Min. Mobility
       - Hang from bar 1x30secs, wide, overhand grip
       - Door knob squat 1x30 secs
-    - Kettlbell Halo 1x5x25# each direction
+    - Kettlbell Halo 1x5x26# each direction
     - Broomstick Halo 1x5 each direction
     - Broomstick dislocations 1x5
   - Double Kettlebell Clean, Press, press...ladders
@@ -883,7 +883,7 @@
     - 1 Min. Mobility
       - Hang from bar 1x30secs, medium, parallel grip
       - Door knob squat 1x30 secs
-    - Kettlbell Halo 1x5x25# each direction
+    - Kettlbell Halo 1x5x26# each direction
     - Broomstick Halo 1x5 each direction
     - Broomstick dislocations 1x5
   - ABC EMOM15 w/ 2x35#
@@ -913,9 +913,9 @@
     - Hang from bar 1x30secs, medium, narrow underhand grip
     - Door knob squat 1x30 secs
   - Cook Drill 12:35, 0.62km, 4 total rounds, alternating hands
-    - Waiter walk from kettlebell stand to end of driveway 25#, 25#, 25#, 25#
-    - Rack carry back to kettlebell stand 25#, 25#, 25#, 25#
-    - Suitcase carry down and back 25#, 25#, 44#, 44#
+    - Waiter walk from kettlebell stand to end of driveway 26#, 26#, 26#, 26#
+    - Rack carry back to kettlebell stand 26#, 26#, 26#, 26#
+    - Suitcase carry down and back 26#, 26#, 44#, 44#
   - 20# Ruck 0:53:56, 3.22, 1 long hill backwards
 
 ## 20251003
@@ -925,7 +925,7 @@
     - 1 Min. Mobility
       - Hang from bar 1x30secs, wide, overhand grip
       - Door knob squat 1x30 secs
-    - Kettlbell Halo 1x5x25# each direction
+    - Kettlbell Halo 1x5x26# each direction
     - Broomstick Halo 1x5 each direction
     - Broomstick dislocations 1x5
   - Double Kettlebell Clean, Press, press...ladders
@@ -950,7 +950,7 @@
     - 1 Min. Mobility
       - Hang from bar 1x30secs, medium, parallel grip
       - Door knob squat 1x30 secs
-    - Kettlbell Halo 1x5x25# each direction
+    - Kettlbell Halo 1x5x26# each direction
     - Broomstick Halo 1x5 each direction
     - Broomstick dislocations 1x5
   - ABC EMOM10 w/ 2x35#
@@ -1062,8 +1062,8 @@
     - Broomstick Halo 1x5 each direction
     - Broomstick dislocations 1x5
   - Double Kettlebell Clean, Press, press...
-    - 2x(2,3,5)x(2x25#)
-  - ABC EMOM5 w/ 2x25#
+    - 2x(2,3,5)x(2x26#)
+  - ABC EMOM5 w/ 2x26#
     - 2 cleans
     - 1 press
     - 3 squats
