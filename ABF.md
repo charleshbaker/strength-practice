@@ -2,6 +2,20 @@
 #  ABC = Armor Building Complex = 2 double kettlebell cleans, 1 double kettlbell press, 3 double kettlebell front squats
 #
 
+## 20260525
+
+- 1516 ET Armor Building Formula (R2W2D1)
+  - Warm Up
+    - 1 Min. Mobility
+      - Hang from bar 1x30secs, parallel, neutral grip
+      - Door knob squat 1x30 secs
+  - ABC10 1 round every 60 seconds
+    - 10x(2x25#) = 20 cleans, 10 presses, 30 front squats
+  - Double Kettlebell Clean, Press, press...ladders
+    - 4x(2,3,5)x(2x25#) = 12 cleans and 40 presses
+- 1537 ET
+  - Walk 1:04:12, 3.47km, 1 long hill backwards 
+
 ## 20260524
 
 - 1130 ET 
