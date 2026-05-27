@@ -4,6 +4,23 @@
 
 ## 20260525
 
+- 1240 ET 
+  - 1 Min. Mobility
+    - Hang from bar 1x30 secs, narrow underhand grip
+    - Dook knob squat 1x30 secs
+  - Original Strength Resets
+    - Deep Breathing
+    - Nodding
+    - Rolling
+    - Rocking
+    - Crawling
+- 1300 ET 
+  - Walk 0:51:14, 2.73 km, 1 long hill backwards
+
+
+
+## 20260525
+
 - 1516 ET Armor Building Formula (R2W2D1)
   - Warm Up
     - 1 Min. Mobility
