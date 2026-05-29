@@ -1,8 +1,48 @@
 # 
-#  ABC = Armor Building Complex = 2 double kettlebell cleans, 1 double kettlbell press, 3 double kettlebell front squats
+#  ABC = Armor Building Complex => Every minute on the minute 2 double 
+#  kettlebell cleans, 1 double kettlbell press, 3 double kettlebell front squats
+#
+#  Clean, press, press ladders: Minute 1 clean the kettlebells do 2 presses,
+#  set them down, shake it off for a few seconds, clean the kettlbells do 3 
+#  presses set them down. Minute 2 clean the bells do 5 pressses, set down.
+#  Minute 3 clean the bells do 10 presses, set down. Top of the next minute
+#  start again w/ 2 reps, etc.
 #
 
-## 20260525
+## 20260528
+
+- 1100 ET
+  - Tai Chi/Qi Gong 15 minutes
+- 1145 ET 
+  - Original Strength Resets
+    - Deep Breathing
+    - Nodding
+    - Rolling
+    - Rocking
+    - Crawling
+  - 1 Min. Mobility
+    - Hang from bar 1x30 secs, narrow underhand grip
+    - Dook knob squat 1x30 secs
+- 1234 ET 
+  - Walk 0:47:09, 2.39 km, 1 long hill backwards
+  - 1 Unloaded Get Up L/R
+
+## 20260527
+
+- 1106 ET Armor Building Formula (R2W2D2)
+  - Warm Up
+    - 1 Min. Mobility
+      - Hang from bar 1x30secs, narrow, underhand grip
+      - Door knob squat 1x30 secs
+  - Double Kettlebell Clean, Press, press...ladders
+    - 2x(2,3,5,10)x(2x26#) = 8 cleans and 40 presses
+    - 1x(2,3,5)x(2x26#) = 3 cleans and 10 presses
+  - ABC10 1 round every 60 seconds
+    - 10x(2x26#) = 20 cleans, 10 presses, 30 front squats
+- 1126 ET
+  - Walk 1:01:26, 3.26km, 1 long hill backwards, stopped to talk to a neighbor for about 10 mins in the middle of walking
+
+## 20260526
 
 - 1240 ET 
   - 1 Min. Mobility
@@ -14,10 +54,11 @@
     - Rolling
     - Rocking
     - Crawling
+  - 1 Unloaded Get Up L/R
 - 1300 ET 
   - Walk 0:51:14, 2.73 km, 1 long hill backwards
 
-
+- 1900 ET 1 Hour Tai-Chi Class
 
 ## 20260525
 
