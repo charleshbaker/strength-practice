@@ -14,7 +14,7 @@
 - 1115 ET
   - Warm Up
     - 1 Min. Mobility
-      - Hang from bar 1x30secs, narrow, underhand grip
+      - Hang from bar 1x30secs, wide, overhand grip
       - Door knob squat 1x30 secs
     - Kettlbell Halo 1x5 L/R
 
