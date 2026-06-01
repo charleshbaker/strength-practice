@@ -9,6 +9,41 @@
 #  start again w/ 2 reps, etc.
 #
 
+## 20260601
+
+- 1220 ET Armor Building Formula (R2W3D1)
+  - Warm Up
+    - 1 Min. Mobility
+      - Hang from bar 1x30secs, narrow, underhand grip
+      - Door knob squat 1x30 secs
+    - Kettlbell Halo 1x5x26# each direction
+  - Double Kettlebell Clean, Press, press...ladders
+    - 4x(2,3,5)x(2x35#) = 12 cleans and 40 presses
+    - 1x(2,3)x(2x35#) = 2 cleans and 5 presses
+  - Walk 1:04:46, 3.27km, 1 long hill backwards
+
+## 20260531
+
+- 2100
+  - 1 Min. Mobility
+    - Hang from bar 1x30 secs, narrow, underhand grip
+    - Dook knob squat 1x30 secs
+
+## 20260530
+
+- 1610 ET 
+  - Original Strength Resets
+    - Deep Breathing
+    - Nodding
+    - Rolling
+    - Rocking
+    - Crawling
+  - 1 Min. Mobility
+    - Hang from bar 1x30 secs, medium, parallel grip
+    - Dook knob squat 1x30 secs
+  - Walk 1:04:46, 3.27km, 1 long hill backwards
+
+
 ## 20260529
 
 - 1115 ET
