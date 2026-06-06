@@ -9,12 +9,38 @@
 #  start again w/ 2 reps, etc.
 #
 
+## 20260606
+- 1130 ET Warm Up
+  - 1 Min. Mobility
+    - Hang from bar 1x30secs, wide, overhand grip
+    - Door knob squat 1x30 secs
+- 1135 ET Armor Building Formula (R2W3D2)
+  - ABC15 1 round every 60 seconds
+    - 15x(2x35#) = 30 cleans, 15 presses, 45 front squats
+- Walk 0:59:43, 3.35km, 1 long hill backwards
+
+## 20260604
+
+- 2000 ET Warm Up
+  - 1 Min. Mobility
+    - Hang from bar 1x30secs, narrow, underhand grip
+    - Door knob squat 1x30 secs
+ - Walk 0:35:09, 1.68km, 1 long hill backwards
+
+## 20260602
+
+- 1 Min. Mobility
+  - Hang from bar 1x30secs, medium, parallel grip
+  - Door knob squat 1x30 secs
+
+- 1900 ET Tai Chi Class
+
 ## 20260601
 
 - 1220 ET Armor Building Formula (R2W3D1)
   - Warm Up
     - 1 Min. Mobility
-      - Hang from bar 1x30secs, narrow, underhand grip
+      - Hang from bar 1x30secs, wide, overhand grip
       - Door knob squat 1x30 secs
     - Kettlbell Halo 1x5x26# each direction
   - Double Kettlebell Clean, Press, press...ladders
