@@ -1,15 +1,26 @@
-# 
-#  ABC = Armor Building Complex => Every minute on the minute 2 double 
-#  kettlebell cleans, 1 double kettlbell press, 3 double kettlebell front squats
-#
-#  Clean, press, press ladders: Minute 1 clean the kettlebells do 2 presses,
-#  set them down, shake it off for a few seconds, clean the kettlbells do 3 
-#  presses set them down. Minute 2 clean the bells do 5 pressses, set down.
-#  Minute 3 clean the bells do 10 presses, set down. Top of the next minute
-#  start again w/ 2 reps, etc.
-#
+### 
+###  ABC = Armor Building Complex => Every minute on the minute 2 double 
+###  kettlebell cleans, 1 double kettlbell press, 3 double kettlebell front squats
+###
+###  Clean, press, press ladders: Minute 1 clean the kettlebells do 2 presses,
+###  set them down, shake it off for a few seconds, clean the kettlbells do 3 
+###  presses set them down. Minute 2 clean the bells do 5 pressses, set down.
+###  Minute 3 clean the bells do 10 presses, set down. Top of the next minute
+###  start again w/ 2 reps, etc.
+###
+
+## 20260607
+
+- 1036 ET
+  - Walk 0:21:57, 1.13km, 1 long hill backwards 
+
+- 2030 ET
+  - 1 Min. Mobility
+    - Hang from bar 1x30secs, wide, overhand grip
+    - Door knob squat 1x30 secs
 
 ## 20260606
+
 - 1130 ET Warm Up
   - 1 Min. Mobility
     - Hang from bar 1x30secs, wide, overhand grip
