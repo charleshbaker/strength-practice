@@ -9,6 +9,50 @@
 ###  start again w/ 2 reps, etc.
 ###
 
+
+## 20260613
+
+- 1155 ET Warm Up
+  - 1 Min. Mobility
+    - Hang from bar 1x30secs, narrow, underhand grip
+    - Door knob squat 1x30 secs
+  - Kettlebell Halo 1x5 each way 26#
+- 1158 ET Armor Building Formula (R2W4D2)
+  - Double Kettlebell Clean, Press, press...ladders
+    - 1x(2,3,5,10)x(2x35#) = 4 cleans and 20 presses
+    - 3x(2,3,5)x(2x35#) = 9 cleans and 30 presses
+    - 3x(2,3)x(2x35#) =   cleans and 15 presses
+  - Walk 1:05:49, 3.24km, 1 long hill backwards
+
+## 20260611
+
+- 2014 ET Warm Up
+  - 1 Min. Mobility
+    - Hang from bar 1x30secs, narrow, underhand grip
+    - Door knob squat 1x30 secs
+  - Kettlebell Halo 1x5 each way 26#
+- 2017 ET Armor Building Formula (R2W4D1)
+  - ABC10 1 round every 60 seconds
+    - 10x(2x35#) = 20 cleans, 10 presses, 30 front squats
+  - Walk 0:26:06, 1.62km 
+
+## 20260609
+
+- 1830 Walk on Swamp Rabbit w/ Roots & Routes
+  - Walk 1:39:55, 7.15km
+
+## 20260608
+
+- 1910 ET
+  - 1 Min. Mobility
+    - Hang from bar 1x30secs, narrow, underhand grip
+    - Door knob squat 1x30 secs
+- 1914 ET Armor Building Formula (R2W3D3)
+  - Double Kettlebell Clean, Press, press...ladders
+    - 5x(2,3,5)x(2x35#) = 15 cleans and 50 presses
+    - 1x(2,3)x(2x35#) = 2 cleans and 5 presses
+  - Walk 0:56:25, 3.31km, 1 long hill backwards
+
 ## 20260607
 
 - 1036 ET
@@ -16,7 +60,7 @@
 
 - 2030 ET
   - 1 Min. Mobility
-    - Hang from bar 1x30secs, wide, overhand grip
+    - Hang from bar 1x30secs, medium, parallel grip
     - Door knob squat 1x30 secs
 
 ## 20260606
