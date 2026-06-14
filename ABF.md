@@ -9,6 +9,21 @@
 ###  start again w/ 2 reps, etc.
 ###
 
+## 20260614
+
+- 1130 ET
+  - Original Strength Resets
+    - Deep Breathing
+    - Nodding
+    - Rolling
+    - Rocking
+    - Crawling
+  - 20# Ruck, 0:57:48, 3.22km, 1 long hill backwards
+
+- 1330 ET
+  - 1 Min. Mobility
+    - Hang from bar 1x30 secs, medium, parallel grip
+    - Dook knob squat 1x30 secs
 
 ## 20260613
 
