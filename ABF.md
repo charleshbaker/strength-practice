@@ -9,6 +9,12 @@
 ###  start again w/ 2 reps, etc.
 ###
 
+## 20260616
+
+- 1842 ET
+  - Walk w/ GVL Roots and Routes Black Hikers on Doodle Trail
+    - 1:14:56, 6.58km 
+
 ## 20260615
 
 - 1335 ET Warm Up
