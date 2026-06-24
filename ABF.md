@@ -9,11 +9,29 @@
 ###  start again w/ 2 reps, etc.
 ###
 
+## 20260624
+
+- 1130 ET Warm Up
+  - 1 Min. Mobility
+    - Hang from bar 1x30secs, medium, parallel grip
+    - Door knob squat 1x30 secs
+  - Kettlebell Halo 1x5 each way 26#
+- 1232 ET Armor Building Formula (R2W6D1)
+  - ABC20 1 round every 60 seconds
+    - 20x(2x35#) = 40 cleans, 20 presses, 60 front squats
+  - Walk 1:01:04, 3.23km, 1 very long hill backwards
+
+## 20260623
+
+- 1 Min. Mobility
+  - Hang from bar 1x30secs, wide, overhand grip
+  - Door knob squat 1x30 secs
+
 ## 20260622
 
 - 1115 ET Warm Up
   - 1 Min. Mobility
-    - Hang from bar 1x30secs, wide, overhand grip
+    - Hang from bar 1x30secs, narrow, underhand grip
     - Door knob squat 1x30 secs
   - Kettlebell Halo 1x5 each way 26#
 - 1118 ET Armor Building Formula (R2W5D3)
