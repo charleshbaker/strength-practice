@@ -9,6 +9,35 @@
 ###  start again w/ 2 reps, etc.
 ###
 
+
+## 20260626
+
+- 0925 ET Warm Up
+  - 1 Min. Mobility
+    - Door knob squat 1x30 secs
+    - Hang from tree 1x30secs, narrow, parallel grip
+  - Kettlebell Halo 1x5 each way 35#
+- 1118 ET Armor Building Formula (R2W6D2)
+  - Double Kettlebell Clean, Press, press...ladders
+    - 1x(2,3,5,10)x(2x35#) = 4 cleans and 20 presses
+    - 5x(2,3,5)x(2x35#) = 15 cleans and 50 presses
+    - 2x(2,3)x(2x35#) = 4 cleans and 10 presses
+  - Walk 0:30:01, 1.52km
+
+## 20260625
+
+- 1800 ET
+  - Super Set 15, 14, 13...1
+    - Banded Hip Thrusts
+    - Banded Clam Shells
+  - Original Strength Resets
+    - Deep Breathing
+    - Nodding
+    - Rolling
+    - Rocking
+    - Crawling
+
+
 ## 20260624
 
 - 1130 ET Warm Up
