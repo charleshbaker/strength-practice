@@ -22,7 +22,7 @@
     - 1x(2,3,5,10)x(2x35#) = 4 cleans and 20 presses
     - 5x(2,3,5)x(2x35#) = 15 cleans and 50 presses
     - 2x(2,3)x(2x35#) = 4 cleans and 10 presses
-  - Walk 0:30:01, 1.52km
+  - Walk 0:30:01, 1.53km
 
 ## 20260625
 
