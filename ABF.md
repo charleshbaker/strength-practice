@@ -2,12 +2,14 @@
 ###  ABC = Armor Building Complex => Every minute on the minute 2 double 
 ###  kettlebell cleans, 1 double kettlbell press, 3 double kettlebell front squats
 ###
-###  Clean, press, press ladders: Minute 1 clean the kettlebells do 2 presses,
+###  Clean, press, press...ladders: Minute 1 clean the kettlebells do 2 presses,
 ###  set them down, shake it off for a few seconds, clean the kettlbells do 3 
 ###  presses set them down. Minute 2 clean the bells do 5 pressses, set down.
 ###  Minute 3 clean the bells do 10 presses, set down. Top of the next minute
 ###  start again w/ 2 reps, etc.
 ###
+### Goal A: 100 reps of presses in a single session
+### Goal B: 30 rounds of ABC in a single session
 
 ## 20260703
 
