@@ -16,7 +16,7 @@
 - 1005 ET Warm Up
   - 1 Min. Mobility
     - Door knob squat 1x30 secs
-    - Hang from tree 1x30secs, wide, overhand grip
+    - Hang from bar 1x30secs, wide, overhand grip
   - Kettlebell Halo 1x5 each way 35#
 - 1011 ET Armor Building Formula (R2W7D1)
   - Double Kettlebell Clean, Press, press...ladders
@@ -24,7 +24,6 @@
     - 1x(2,3,5)x(2x35#) = 3 cleans and 10 presses
     - 2x(2,3)x(2x35#) = 4 cleans and 10 presses
   - Walk 1:04:47, 3.46km, 1 long hill backwards
-
 
 ## 20260629
 
