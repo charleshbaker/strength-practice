@@ -18,9 +18,10 @@
     - Hang from bar 1x30secs, narrow, underhand grip
     - Door knob squat 1x30 secs
   - Kettlebell Halo 1x5 each way 35#
-- 1033 ET Armor Building Formula (R2W4D3)
+- 1033 ET Armor Building Formula (R2W7D2)
   - ABC15 1 round every 60 seconds
     - 15x(2x35#) = 30 cleans, 15 presses, 45 front squats
+  - It was so hot, I just couldn't go past 15 rounds today though in my mind I was going to hit 30.
 - Walk delayed nearly 30 minutes by talking to a neighbor
 - 1112 ET
   - Walk 1:02:59, 3.23km, 1 long hill backwards
