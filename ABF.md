@@ -11,6 +11,27 @@
 ### Goal A: 100 reps of presses in a single session
 ### Goal B: 30 rounds of ABC in a single session
 
+## 20260708
+
+- 0815 ET Warm Up
+  - 1 Min. Mobility
+    - Door knob squat 1x30 secs
+    - Hang from bar 1x30secs, medium, parallel grip
+  - Kettlebell Halo 1x5 each way 35#
+- 0859 ET Armor Building Formula (R2W7D3)
+  - Double Kettlebell Clean, Press, press...ladders
+    - 10x(2,3,5)x(2x35#) = 30 cleans and 100 presses
+  - Walk 0:55:48, 3.24km 
+
+## 20260706
+
+- 1100 ET Warm Up
+  - 1 Min. Mobility
+    - Hang from bar 1x30secs, wide, overhand grip
+    - Door knob squat 1x30 secs
+- 11:48 ET
+  - Walk 23:39, 1.34km
+
 ## 20260705
 
 - 1015 ET Warm Up
