@@ -17,7 +17,7 @@
   - 1 Min. Mobility
     - Hang from bar 1x30secs, narrow, underhand grip
     - Door knob squat 1x30 secs
-  - Kettlebell Halo 1x5 each way 26#
+  - Kettlebell Halo 1x5 each way 35#
 - 1154 ET Armor Building Formula (R2W8D1)
   - ABC10 1 round every 60 seconds
     - 10x(2x35#) = 20 cleans, 10 presses, 30 front squats
