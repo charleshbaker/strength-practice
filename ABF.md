@@ -11,6 +11,12 @@
 ### Goal A: 100 reps of presses in a single session
 ### Goal B: 30 rounds of ABC in a single session
 
+## 20260712
+
+- 2300 ET 1 Min. Mobility 
+  - Hang from bar 1x30secs, narrow, underhand grip
+  - Door knob squat 1x20 secs
+
 ## 20260708
 
 - 0815 ET Warm Up
