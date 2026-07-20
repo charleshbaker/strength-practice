@@ -18,7 +18,7 @@
     - Hang from bar 1x30secs, wide, overhand grip
     - Door knob squat 1x30 secs
   - Kettlebell Halo 1x5 each way 35#
-- 1148 ET Armor Building Formula (R2W8D1)
+- 1148 ET Armor Building Formula (R2W8D3)
   - ABC30 1 round every 60 seconds
     - 30x(2x35#) = 60 cleans, 30 presses, 90 front squats
 - 1227 ET
