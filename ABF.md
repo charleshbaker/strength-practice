@@ -15,7 +15,7 @@
 
 - 1143 ET Warm Up
   - 1 Min. Mobility
-    - Hang from bar 1x30secs, wide, overhand grip
+    - Hang from bar 1x30secs, narrow, underhand grip
     - Door knob squat 1x30 secs
   - Kettlebell Halo 1x5 each way 35#
 - 1148 ET Armor Building Formula (R2W8D3)
