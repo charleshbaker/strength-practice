@@ -1,3 +1,43 @@
+### Train like a 1950s or 1960s bodybuilder but on machines!
+### Three days a week whole body.
+### Strive for 3 sets of 8 repetitions with 1 minute rest between sets.
+### Train movement patterns more than body parts.
+### Squat, Hinge, Horizontal Push, Horizontal Pull, Vertical Push, Vertical Pull
+### Add in one isolation movement each for quads, hamstrings, triceps and biceps
+### To aid in fat loss walk 30-60 minutes as soon as I finish lifting.
+
+
+## 20260822
+
+### Warm Up
+
+- Tried to ride airdyne but just above the outside of right knee was very uncomfortable
+  - put on knee sleeve, still no go
+- Hang from bar, 30 seconds, wide overhand grip
+- door knob squat, 30 seconds
+- 45 degree leg presses: 1x8xno plates; 1x8x(2x45); 1x8x(4x45)
+
+### Machine Workout
+
+- 45 degree leg press 3x8x(6x45)
+- Hip Thrust Machine 3x8x(4x45)
+- Leg Ext. 3x8x80
+- Lying Leg Curl 3x8x80
+- Red Plate Load Prone Bench Press 3x(8,6,4)x(50,70,90)
+- Hammer High Row 3x8,8,6)x(110,140,180)
+- Hammer Press 3x(8,5,6)x(70,90,90)
+- Wide Grip Pull Down 3x(8,8,6)x(100,120,120)
+- Machine Tricpe Press 3x(8,8,6)x100
+- Machine Curl 3x8x6 plates
+- Seated Calf 3x15x90
+
+### Cardio
+
+- Treadmill Walk, 0:55:27, 2.00 miles
+
+## 20260821
+
+- 20 minute swim
 
 ## 20260820
 
