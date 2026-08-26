@@ -7,6 +7,20 @@
 ### To aid in fat loss walk 30-60 minutes as soon as I finish lifting.
 
 
+## 20260825
+
+### In Aiken, SC away from the gym but kettlebells travel!
+
+- 1 round of ABC 2 cleans, 1 press, 3 front squats w/ a pair of 20 kg kettlbells
+  - My right shoulder felt funky so...
+- Human Burpee
+  - 15 2-hand swings x 20kg; 5 goblet squats; 5 elevated push ups
+  - 15 2-hand swings x 20kg; 4 goblet squats; 4 elevated push ups
+  - 15 2-hand swings x 20kg; 3 goblet squats; 3 elevated push ups
+  - 15 2-hand swings x 20kg; 2 goblet squats; 2 elevated push ups
+  - 15 2-hand swings x 20kg; 1 goblet squats; 1 elevated push ups
+- Walk 0:37:25, 1.96 km
+
 ## 20260822
 
 ### Warm Up
