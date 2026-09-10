@@ -7,6 +7,36 @@
 ### To aid in fat loss walk 30-60 minutes as soon as I finish lifting.
 
 
+## 20260910
+
+### Couldn't get going last week after the week in Aiken. Back at it!
+
+### Warm Up
+
+- Rode airdyne 5 mins, just above the outside of right knee was a little uncomfortable
+  - put on knee sleeve
+- Hang from bar, 30 seconds, wide overhand grip
+- door knob squat, 30 seconds
+- 45 degree leg presses: 1x8xno plates; 1x8x(2x45); 1x8x(4x45)
+
+### Machine Workout
+
+- 45 degree leg press 3x8x(6x45)
+- Hip Thrust Machine 3x8x(4x45), (2x45), (2x70)
+- Leg Ext. 3x8x80
+- Lying Leg Curl 3x8x80
+- Red Plate Load Prone Bench Press 3x(8,8,4)x(50,70,70) rt. shoulder was twingy
+- Hammer High Row 3x8x140
+- Hammer Press 3x8x50, rt. shoulder was twingy
+- Wide Grip Pull Down 3x8120
+- Machine Tricep Press 3x8x100
+- Machine Curl 3x8x7 plates
+- Seated Calf 3x15x90
+
+### Cardio
+
+- Treadmill Walk, 0:30:00, 1.00 mile
+
 ## 20260825
 
 ### In Aiken, SC away from the gym but kettlebells travel!
