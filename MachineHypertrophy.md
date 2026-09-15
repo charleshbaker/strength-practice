@@ -35,6 +35,11 @@
 
 - Walk, 0:48:14, 2.75km, 1 tiny hill backwards
 
+## 20260914
+
+- Walk w/ Laura, 0:30:28, 1.83km 
+
+
 ## 20260912
 
 ### Warm Up
@@ -62,6 +67,10 @@
 ### Cardio
 
 - Treadmill Walk, 0:30:00, 1.00 mile
+
+## 20260911
+
+- Short swim, 0:11:00
 
 ## 20260910
 
