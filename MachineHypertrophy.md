@@ -3,7 +3,8 @@
 ### Strive for 3 sets of 8 repetitions with 1 minute rest between sets.
 ### Train movement patterns more than body parts.
 ### Squat, Hinge, Horizontal Push, Horizontal Pull, Vertical Push, Vertical Pull
-### Add in one isolation movement each for quads, hamstrings, triceps and biceps
+### Add in one isolation movement each for quads, hamstrings, triceps, biceps 
+### and calves.
 ### To aid in fat loss walk 30-60 minutes as soon as I finish lifting.
 
 
