@@ -7,6 +7,34 @@
 ### To aid in fat loss walk 30-60 minutes as soon as I finish lifting.
 
 
+## 20260915
+
+### Warm Up
+
+- Rode airdyne 5 mins
+- Hang from bar, 30 seconds, medium parallel grip
+- door knob squat, 30 seconds
+- Put on knee sleeve
+- 45 degree leg presses: 1x8xno plates; 1x8x(2x45); 1x8x(4x45)
+
+### Machine Workout
+
+- 45 degree leg press 3x8x(6x45#)
+- Hip Thrust Machine 3x8x(4x45#)
+- Leg Ext. 3x8x100#
+- Lying Leg Curl 3x8x100#
+- MuscleD Bench Press 3x8,6,5x50#,70#,70# rt. shoulder was less twingy
+- Wide Grip Pull Down 3x8x120#
+- Hammer Press 3x8,8,6x50#,70#,70# rt. shoulder was less twingy
+- Hammer High Row 3x8,8,6x140#,180#,180#
+- Machine Tricep Press 3x8x110#
+- Machine Curl 3x8,8,6x(8 plates)
+- Seated Calf 3x15x(2x45#)
+
+### Cardio
+
+- Walk, 0:48:14, 2.75km, 1 tiny hill backwards
+
 ## 20260912
 
 ### Warm Up
