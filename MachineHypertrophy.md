@@ -17,7 +17,7 @@
 - door knob squat, 30 seconds
 - 45 degree leg presses: 1x8xno plates; 1x8x(2x45); 1x8x(4x45)
 
-### Machine Workout #08
+### Machine Workout #09
 
 - 45 degree leg press 3x8x(6x45#)
 - Hip Thrust Machine 3x8x(4x45#)
@@ -42,10 +42,119 @@
 ## 20261012
 
 - Armor Building Formula
-  - Clean, Press, Press...ladders 3x(2,3,5)x(2x35#)
+  - Clean, Press, Press...ladders 3x(2,3,5)x(2x35#) 30 total reps
   - ABC10
     - 10x(2x35#) = 20 cleans, 10 presses, 30 front squats
 - Walk, 1:03:12, 2.11 mi, 1 long hill backwards
+
+## 20261011
+
+- Walk, 1:14:53, 2.01 mi / 3.23 km
+
+## 20261008
+
+- Walk, 0:35:57, 1.15 mi / 1.85 km
+
+## 20261005
+
+- Walk, 0:27:22, 1.21 mi / 1.95 km
+
+## 20261002
+
+- Walk, 0:34:47, 1.08 mi / 1.74 km
+
+## 20260928
+
+### 1901 ET
+
+- Walk, 0:29:23, 1.05 mi / 1.69 km
+
+## 20260926
+
+### 1124 ET
+
+- Walk, 0:31:58, 1.17 mi / 1.88 km
+
+## 20260925
+
+### 1738 ET
+
+- Clean, press, press...ladders
+  - 1x(2,3,5,10)x(2x35#) 20 total reps
+  - 4x(2,3,5)x(2x35#) 40 total reps
+
+### 1148 ET
+
+- Walk 0:44:14 1.04 mi / 1.67 km
+
+### 1045 ET
+
+- Walk 0:27:51 0.52 mi / 0.84 km
+
+## 20260924
+
+### 1317 ET
+
+- Bike 1:02:12s 5.50 miles / 8.85 km
+
+### 1145 ET
+
+- Bike 0:30:00 2.1 miles / 3.38 km
+
+## 20260923
+
+### 1438 ET
+
+- Walk 0:30:12 1.2 miles / 1.93 km
+
+## 20260922
+
+### 1611 ET
+
+- Walk, 0:34:34, 0.98 mi/ 1.58 km
+
+### 1034 ET
+
+- ABC15
+  - 15x(2x35#) = 30 cleans, 15 presses, 45 front squats
+
+### 0939 ET
+
+- Bike 0:38:36, 3.41 miles/ 5.05 km
+
+- ABC15
+  - 15x(2x35#) = 30 cleans, 15 presses, 45 front squats
+- Walk, 0:34:34, 0.98 mi/ 1.58 km
+
+### 0939 ET
+- Bike 0:38:36, 3.41 miles/ 5.05 km
+
+## 20260920
+
+### Warm Up
+
+- Rode airdyne 5 mins
+- Hang from bar, 30 seconds, medium underhand grip
+- door knob squat, 30 seconds
+- 45 degree leg presses: 1x8xno plates; 1x8x(2x45); 1x8x(4x45)
+
+### Machine Workout #08
+
+- 45 degree leg press 2x8x(6x45#), 1x8x(8x45#)
+- Hip Thrust Machine 3x8x(4x45#)
+- Leg Ext. 3x8x100#
+- Seated Leg Curl 3x8x90#
+- Dumbbell Incline Press 1x6x(2x35#), 2x8x(2x30#)
+- Hammer High Row 3x8,8,6x140#,180#,180#
+- Hammer Press 1x8x50#, 2x8x60#
+- Wide Grip Pull Down 3x8,8,10x100#
+- Machine Tricep Press 3x8x110# superset w/
+- Machine Curl 3x8x(8 plates)
+- Seated Calf 3x15x(2x45#)
+
+### Cardio
+
+- Treadmill Walk, 1:01:40, 2.19 miles/3.52 km
 
 ## 20260917
 
