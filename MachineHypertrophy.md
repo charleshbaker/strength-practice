@@ -8,6 +8,45 @@
 ### To aid in fat loss walk 30-60 minutes as soon as I finish lifting.
 
 
+## 20261014
+
+### Warm Up
+
+- Rode airdyne 5 mins
+- Hang from bar, 30 seconds, medium parallel grip
+- door knob squat, 30 seconds
+- 45 degree leg presses: 1x8xno plates; 1x8x(2x45); 1x8x(4x45)
+
+### Machine Workout #08
+
+- 45 degree leg press 3x8x(6x45#)
+- Hip Thrust Machine 3x8x(4x45#)
+- Seated Leg Curl 3x8x90#
+- Leg Ext. 3x8x90#
+- Dumbbell Incline Press 3x8x(2x35#)
+- Hammer High Row 3x8x140#
+- Hammer Press 3x8x50#,70#,#70 
+- Wide Grip Pull Down 3x8x100#
+- Machine Tricep Press 3x8x100# superset w/
+- Machine Curl 3x8,8,7x(8 plates)
+- Seated Calf 3x15x(2x45#)
+
+### Cardio
+
+- Treadmill Walk, 0:30:00, 1.35 miles/2.17km
+
+## 20261013
+
+- Walk w/ Laura 0:42:41 1.83km/1.14 miles
+
+## 20261012
+
+- Armor Building Formula
+  - Clean, Press, Press...ladders 3x(2,3,5)x(2x35#)
+  - ABC10
+    - 10x(2x35#) = 20 cleans, 10 presses, 30 front squats
+- Walk, 1:03:12, 2.11 mi, 1 long hill backwards
+
 ## 20260917
 
 ### Warm Up
@@ -17,7 +56,7 @@
 - door knob squat, 30 seconds
 - 45 degree leg presses: 1x8xno plates; 1x8x(2x45); 1x8x(4x45)
 
-### Machine Workout
+### Machine Workout #07
 
 - 45 degree leg press 2x8x(6x45#), 1x8x(8x45#)
 - Hip Thrust Machine 3x8x(4x45#)
@@ -45,7 +84,7 @@
 - Put on knee sleeve
 - 45 degree leg presses: 1x8xno plates; 1x8x(2x45); 1x8x(4x45)
 
-### Machine Workout
+### Machine Workout #06
 
 - 45 degree leg press 3x8x(6x45#)
 - Hip Thrust Machine 3x8x(4x45#)
@@ -78,7 +117,7 @@
 - door knob squat, 30 seconds
 - 45 degree leg presses: 1x8xno plates; 1x8x(2x45); 1x8x(4x45)
 
-### Machine Workout
+### Machine Workout #05
 
 - 45 degree leg press 3x8x(6x45)
 - Hip Thrust Machine 3x8x(4x45)
@@ -112,7 +151,7 @@
 - door knob squat, 30 seconds
 - 45 degree leg presses: 1x8xno plates; 1x8x(2x45); 1x8x(4x45)
 
-### Machine Workout
+### Machine Workout #04
 
 - 45 degree leg press 3x8x(6x45)
 - Hip Thrust Machine 3x8x(4x45), (2x45), (2x70)
@@ -154,7 +193,7 @@
 - door knob squat, 30 seconds
 - 45 degree leg presses: 1x8xno plates; 1x8x(2x45); 1x8x(4x45)
 
-### Machine Workout
+### Machine Workout #03
 
 - 45 degree leg press 3x8x(6x45)
 - Hip Thrust Machine 3x8x(4x45)
@@ -186,7 +225,7 @@
 - door knob squat, 30 seconds
 - 45 degree leg presses: 1x8xno plates; 1x8x(2x45)
 
-### Machine Workout
+### Machine Workout #02
 
 - 45 degree leg press 3x8x(4x45)
 - Hip Thrust Machine 3x8x(2x45)
@@ -212,7 +251,7 @@
 - Hang from bar, 30 seconds, medium parallel grip
 - door knob squat, 30 seconds
 
-### Machine Workout
+### Machine Workout #01
 
 - 45 degree leg press 3x8x(2x45)
 - Deadlift (RDL-ish from an inch or so below the knee) 3x8x135
