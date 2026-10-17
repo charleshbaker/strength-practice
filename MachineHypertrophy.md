@@ -17,7 +17,7 @@
 - door knob squat, 30 seconds
 - 45 degree leg presses: 1x8xno plates; 1x8x(2x45); 1x8x(4x45)
 
-### Machine Workout #09
+### Machine Workout 10/24
 
 - 45 degree leg press 2x8x(6x45#), 1x8x(8x45#)
 - Hip Thrust Machine 3x8x(4x45#)
@@ -48,7 +48,7 @@
 - door knob squat, 30 seconds
 - 45 degree leg presses: 1x8xno plates; 1x8x(2x45); 1x8x(4x45)
 
-### Machine Workout #09
+### Machine Workout 09/24
 
 - 45 degree leg press 3x8x(6x45#)
 - Hip Thrust Machine 3x8x(4x45#)
@@ -169,7 +169,7 @@
 - door knob squat, 30 seconds
 - 45 degree leg presses: 1x8xno plates; 1x8x(2x45); 1x8x(4x45)
 
-### Machine Workout #08
+### Machine Workout 08/24
 
 - 45 degree leg press 2x8x(6x45#), 1x8x(8x45#)
 - Hip Thrust Machine 3x8x(4x45#)
@@ -196,7 +196,7 @@
 - door knob squat, 30 seconds
 - 45 degree leg presses: 1x8xno plates; 1x8x(2x45); 1x8x(4x45)
 
-### Machine Workout #07
+### Machine Workout 07/24
 
 - 45 degree leg press 2x8x(6x45#), 1x8x(8x45#)
 - Hip Thrust Machine 3x8x(4x45#)
@@ -224,7 +224,7 @@
 - Put on knee sleeve
 - 45 degree leg presses: 1x8xno plates; 1x8x(2x45); 1x8x(4x45)
 
-### Machine Workout #06
+### Machine Workout 06/24
 
 - 45 degree leg press 3x8x(6x45#)
 - Hip Thrust Machine 3x8x(4x45#)
@@ -257,7 +257,7 @@
 - door knob squat, 30 seconds
 - 45 degree leg presses: 1x8xno plates; 1x8x(2x45); 1x8x(4x45)
 
-### Machine Workout #05
+### Machine Workout 05/24
 
 - 45 degree leg press 3x8x(6x45)
 - Hip Thrust Machine 3x8x(4x45)
@@ -291,7 +291,7 @@
 - door knob squat, 30 seconds
 - 45 degree leg presses: 1x8xno plates; 1x8x(2x45); 1x8x(4x45)
 
-### Machine Workout #04
+### Machine Workout 04/24
 
 - 45 degree leg press 3x8x(6x45)
 - Hip Thrust Machine 3x8x(4x45), (2x45), (2x70)
@@ -333,7 +333,7 @@
 - door knob squat, 30 seconds
 - 45 degree leg presses: 1x8xno plates; 1x8x(2x45); 1x8x(4x45)
 
-### Machine Workout #03
+### Machine Workout 03/24
 
 - 45 degree leg press 3x8x(6x45)
 - Hip Thrust Machine 3x8x(4x45)
@@ -365,7 +365,7 @@
 - door knob squat, 30 seconds
 - 45 degree leg presses: 1x8xno plates; 1x8x(2x45)
 
-### Machine Workout #02
+### Machine Workout 02/24
 
 - 45 degree leg press 3x8x(4x45)
 - Hip Thrust Machine 3x8x(2x45)
@@ -391,7 +391,7 @@
 - Hang from bar, 30 seconds, medium parallel grip
 - door knob squat, 30 seconds
 
-### Machine Workout #01
+### Machine Workout 01/24
 
 - 45 degree leg press 3x8x(2x45)
 - Deadlift (RDL-ish from an inch or so below the knee) 3x8x135
