@@ -7,6 +7,31 @@
 ### and calves.
 ### To aid in fat loss walk 30-60 minutes as soon as I finish lifting.
 
+## 20261019
+
+- 1 Min. Mobility
+  - Hang from bar 1x30 secs, wide, overhand grip
+  - Dook knob squat 1x30 secs
+- Walk, 0:30:48, 1.00 miles / 1.62 km
+
+## 20261018
+
+- Waist measurement 117 cm
+- 1 Min. Mobility
+  - Hang from bar 1x30 secs, narrow, underhand grip
+  - Dook knob squat 1x30 secs
+- Original Strength Resets
+   - Deep Breathing
+   - Nodding
+   - Rolling
+   - Rocking
+   - Crawling
+- McGill Big 3
+  - Curl Ups 3,2,1x10 sec hold each alternating right knee up then left knee up
+  - Kneeling Side Plank 3,2,1x10 sec hold each alternating sides
+ - Bird Dogs 3,2,1x10 sec hold each alternating sides
+- FroZones 3,2,1x10 sec hold each alternating sides
+- 20# Ruck 0:58:56, 3.26 km / 2.03 mi, 1 long hill backwards 
 
 ## 20261017
 
