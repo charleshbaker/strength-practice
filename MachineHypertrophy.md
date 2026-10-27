@@ -7,6 +7,38 @@
 ### and calves.
 ### To aid in fat loss walk 30-60 minutes as soon as I finish lifting.
 
+## 20261024
+
+- Short hikes in the Pisgah National Forest w/ Laura
+
+## 20261022
+
+### Warm Up
+
+- Rode airdyne 5 mins
+- Hang from bar, 30 seconds, medium parallel grip
+- door knob squat, 30 seconds
+- 45 degree leg presses: 1x8xno plates; 1x8x(2x45); 1x8x(4x45)
+
+### Machine Workout 10/24
+
+- 45 degree leg press 1x8x(6x45#), 2x8x(8x45#)
+- Hip Thrust Machine 3x8x(4x45#)
+- Leg Ext. 3x8x100#
+- Seated Leg Curl 3x8x100#
+- Dumbbell Incline Press 3x8x(2x40#)
+- Hammer High Row 3x8x180#
+- Hammer Press 3x8x50#,70#,90# 
+- Wide Grip Pull Down 3x8x100#
+- Machine Tricep Press 3x8x110# superset w/
+- Machine Curl 3x8,8,7x(8 plates)
+- Seated Calf 3x15x(2x45#)
+
+### Cardio
+
+- Walk, 0:58:16, 2.00 miles / 3.23 km
+
+
 ## 20261019
 
 - 1 Min. Mobility
