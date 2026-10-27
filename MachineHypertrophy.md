@@ -7,7 +7,7 @@
 ### and calves.
 ### To aid in fat loss walk 30-60 minutes as soon as I finish lifting.
 
-## 20261022
+## 20261027
 
 ### Warm Up
 
